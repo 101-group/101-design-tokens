@@ -213,6 +213,7 @@ public enum Icons: String, CaseIterable, Equatable {
     case monochromeTelegram = "icon-monochrome-telegram"
     case monochromeTelegramFill = "icon-monochrome-telegram-fill"
     case monochromeTemplate = "icon-monochrome-template"
+    case monochromeTextformat = "icon-monochrome-textformat"
     case monochromeTheme = "icon-monochrome-theme"
     case monochromeTransactionCardEstimate = "icon-monochrome-transaction-card-estimate"
     case monochromeTransactionCardExpense = "icon-monochrome-transaction-card-expense"

@@ -2498,6 +2498,18 @@
       "pageName": "􀥧     Icons"
     },
     {
+      "figmaComponentId": "13658:582",
+      "webPath": "web/icons/monochrome/textformat.svg",
+      "iosAssetName": "icon-monochrome-textformat",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-textformat.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-textformat.imageset/icon-monochrome-textformat.pdf",
+      "androidResourceName": "icon_monochrome_textformat",
+      "androidPath": "android/res/drawable/icon_monochrome_textformat.xml",
+      "category": "monochrome",
+      "sourceName": "textformat",
+      "pageName": "􀥧     Icons"
+    },
+    {
       "figmaComponentId": "13624:168",
       "webPath": "web/icons/monochrome/theme.svg",
       "iosAssetName": "icon-monochrome-theme",
