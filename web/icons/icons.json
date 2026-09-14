@@ -806,6 +806,18 @@
       "pageName": "􀥧     Icons"
     },
     {
+      "figmaComponentId": "13684:119",
+      "webPath": "web/icons/monochrome/description.svg",
+      "iosAssetName": "icon-monochrome-description",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-description.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-description.imageset/icon-monochrome-description.pdf",
+      "androidResourceName": "icon_monochrome_description",
+      "androidPath": "android/res/drawable/icon_monochrome_description.xml",
+      "category": "monochrome",
+      "sourceName": "description",
+      "pageName": "􀥧     Icons"
+    },
+    {
       "figmaComponentId": "13260:121",
       "webPath": "web/icons/monochrome/desktop.svg",
       "iosAssetName": "icon-monochrome-desktop",
