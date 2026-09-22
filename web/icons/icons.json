@@ -9,6 +9,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-101.imageset/icon-monochrome-101.pdf",
       "androidResourceName": "icon_monochrome_101",
       "androidPath": "android/res/drawable/icon_monochrome_101.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "101",
       "pageName": "􀥧     Icons"
@@ -21,6 +22,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-101account.imageset/icon-monochrome-101account.pdf",
       "androidResourceName": "icon_monochrome_101account",
       "androidPath": "android/res/drawable/icon_monochrome_101account.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "101account",
       "pageName": "􀥧     Icons"
@@ -33,6 +35,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-101app.imageset/icon-monochrome-101app.pdf",
       "androidResourceName": "icon_monochrome_101app",
       "androidPath": "android/res/drawable/icon_monochrome_101app.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "101app",
       "pageName": "􀥧     Icons"
@@ -45,6 +48,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-account-fill.imageset/icon-monochrome-account-fill.pdf",
       "androidResourceName": "icon_monochrome_account_fill",
       "androidPath": "android/res/drawable/icon_monochrome_account_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "account-fill",
       "pageName": "􀥧     Icons"
@@ -57,6 +61,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-account.imageset/icon-monochrome-account.pdf",
       "androidResourceName": "icon_monochrome_account",
       "androidPath": "android/res/drawable/icon_monochrome_account.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "account",
       "pageName": "􀥧     Icons"
@@ -69,6 +74,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-add.imageset/icon-monochrome-add.pdf",
       "androidResourceName": "icon_monochrome_add",
       "androidPath": "android/res/drawable/icon_monochrome_add.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "add",
       "pageName": "􀥧     Icons"
@@ -81,6 +87,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-admin.imageset/icon-monochrome-admin.pdf",
       "androidResourceName": "icon_monochrome_admin",
       "androidPath": "android/res/drawable/icon_monochrome_admin.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "admin",
       "pageName": "􀥧     Icons"
@@ -93,6 +100,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-adress.imageset/icon-monochrome-adress.pdf",
       "androidResourceName": "icon_monochrome_adress",
       "androidPath": "android/res/drawable/icon_monochrome_adress.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "adress",
       "pageName": "􀥧     Icons"
@@ -105,6 +113,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-ai.imageset/icon-monochrome-ai.pdf",
       "androidResourceName": "icon_monochrome_ai",
       "androidPath": "android/res/drawable/icon_monochrome_ai.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "ai",
       "pageName": "􀥧     Icons"
@@ -117,6 +126,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-analytics.imageset/icon-monochrome-analytics.pdf",
       "androidResourceName": "icon_monochrome_analytics",
       "androidPath": "android/res/drawable/icon_monochrome_analytics.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "analytics",
       "pageName": "􀥧     Icons"
@@ -129,6 +139,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-android.imageset/icon-monochrome-android.pdf",
       "androidResourceName": "icon_monochrome_android",
       "androidPath": "android/res/drawable/icon_monochrome_android.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "android",
       "pageName": "􀥧     Icons"
@@ -141,6 +152,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-api.imageset/icon-monochrome-api.pdf",
       "androidResourceName": "icon_monochrome_api",
       "androidPath": "android/res/drawable/icon_monochrome_api.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "api",
       "pageName": "􀥧     Icons"
@@ -153,6 +165,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-app-mask.imageset/icon-monochrome-app-mask.pdf",
       "androidResourceName": "icon_monochrome_app_mask",
       "androidPath": "android/res/drawable/icon_monochrome_app_mask.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "app-mask",
       "pageName": "􀥧     Icons"
@@ -165,6 +178,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-archive-add.imageset/icon-monochrome-archive-add.pdf",
       "androidResourceName": "icon_monochrome_archive_add",
       "androidPath": "android/res/drawable/icon_monochrome_archive_add.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "archive-add",
       "pageName": "􀥧     Icons"
@@ -177,6 +191,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-archive-remove.imageset/icon-monochrome-archive-remove.pdf",
       "androidResourceName": "icon_monochrome_archive_remove",
       "androidPath": "android/res/drawable/icon_monochrome_archive_remove.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "archive-remove",
       "pageName": "􀥧     Icons"
@@ -189,6 +204,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-archive.imageset/icon-monochrome-archive.pdf",
       "androidResourceName": "icon_monochrome_archive",
       "androidPath": "android/res/drawable/icon_monochrome_archive.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "archive",
       "pageName": "􀥧     Icons"
@@ -201,6 +217,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-arrow-down.imageset/icon-monochrome-arrow-down.pdf",
       "androidResourceName": "icon_monochrome_arrow_down",
       "androidPath": "android/res/drawable/icon_monochrome_arrow_down.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "arrow-down",
       "pageName": "􀥧     Icons"
@@ -213,6 +230,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-arrow-left.imageset/icon-monochrome-arrow-left.pdf",
       "androidResourceName": "icon_monochrome_arrow_left",
       "androidPath": "android/res/drawable/icon_monochrome_arrow_left.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "arrow-left",
       "pageName": "􀥧     Icons"
@@ -225,6 +243,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-arrow-right.imageset/icon-monochrome-arrow-right.pdf",
       "androidResourceName": "icon_monochrome_arrow_right",
       "androidPath": "android/res/drawable/icon_monochrome_arrow_right.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "arrow-right",
       "pageName": "􀥧     Icons"
@@ -237,6 +256,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-arrow-turn-down-right.imageset/icon-monochrome-arrow-turn-down-right.pdf",
       "androidResourceName": "icon_monochrome_arrow_turn_down_right",
       "androidPath": "android/res/drawable/icon_monochrome_arrow_turn_down_right.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "arrow-turn-down-right",
       "pageName": "􀥧     Icons"
@@ -249,6 +269,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-arrow-turn-left-down.imageset/icon-monochrome-arrow-turn-left-down.pdf",
       "androidResourceName": "icon_monochrome_arrow_turn_left_down",
       "androidPath": "android/res/drawable/icon_monochrome_arrow_turn_left_down.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "arrow-turn-left-down",
       "pageName": "􀥧     Icons"
@@ -261,6 +282,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-arrow-up.imageset/icon-monochrome-arrow-up.pdf",
       "androidResourceName": "icon_monochrome_arrow_up",
       "androidPath": "android/res/drawable/icon_monochrome_arrow_up.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "arrow-up",
       "pageName": "􀥧     Icons"
@@ -273,6 +295,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-attributes.imageset/icon-monochrome-attributes.pdf",
       "androidResourceName": "icon_monochrome_attributes",
       "androidPath": "android/res/drawable/icon_monochrome_attributes.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "attributes",
       "pageName": "􀥧     Icons"
@@ -285,6 +308,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-avatar.imageset/icon-monochrome-avatar.pdf",
       "androidResourceName": "icon_monochrome_avatar",
       "androidPath": "android/res/drawable/icon_monochrome_avatar.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "avatar",
       "pageName": "􀥧     Icons"
@@ -297,6 +321,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-balance.imageset/icon-monochrome-balance.pdf",
       "androidResourceName": "icon_monochrome_balance",
       "androidPath": "android/res/drawable/icon_monochrome_balance.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "balance",
       "pageName": "􀥧     Icons"
@@ -309,6 +334,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-bank.imageset/icon-monochrome-bank.pdf",
       "androidResourceName": "icon_monochrome_bank",
       "androidPath": "android/res/drawable/icon_monochrome_bank.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "bank",
       "pageName": "􀥧     Icons"
@@ -321,6 +347,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-bill.imageset/icon-monochrome-bill.pdf",
       "androidResourceName": "icon_monochrome_bill",
       "androidPath": "android/res/drawable/icon_monochrome_bill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "bill",
       "pageName": "􀥧     Icons"
@@ -333,6 +360,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-calculator.imageset/icon-monochrome-calculator.pdf",
       "androidResourceName": "icon_monochrome_calculator",
       "androidPath": "android/res/drawable/icon_monochrome_calculator.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "calculator",
       "pageName": "􀥧     Icons"
@@ -345,6 +373,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-calendar.imageset/icon-monochrome-calendar.pdf",
       "androidResourceName": "icon_monochrome_calendar",
       "androidPath": "android/res/drawable/icon_monochrome_calendar.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "calendar",
       "pageName": "􀥧     Icons"
@@ -357,6 +386,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-camera-fill.imageset/icon-monochrome-camera-fill.pdf",
       "androidResourceName": "icon_monochrome_camera_fill",
       "androidPath": "android/res/drawable/icon_monochrome_camera_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "camera-fill",
       "pageName": "􀥧     Icons"
@@ -369,6 +399,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-camera.imageset/icon-monochrome-camera.pdf",
       "androidResourceName": "icon_monochrome_camera",
       "androidPath": "android/res/drawable/icon_monochrome_camera.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "camera",
       "pageName": "􀥧     Icons"
@@ -381,6 +412,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-card-fill-trimmed.imageset/icon-monochrome-card-fill-trimmed.pdf",
       "androidResourceName": "icon_monochrome_card_fill_trimmed",
       "androidPath": "android/res/drawable/icon_monochrome_card_fill_trimmed.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "card-fill-trimmed",
       "pageName": "􀥧     Icons"
@@ -393,6 +425,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-card-fill.imageset/icon-monochrome-card-fill.pdf",
       "androidResourceName": "icon_monochrome_card_fill",
       "androidPath": "android/res/drawable/icon_monochrome_card_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "card-fill",
       "pageName": "􀥧     Icons"
@@ -405,6 +438,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-card.imageset/icon-monochrome-card.pdf",
       "androidResourceName": "icon_monochrome_card",
       "androidPath": "android/res/drawable/icon_monochrome_card.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "card",
       "pageName": "􀥧     Icons"
@@ -417,6 +451,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-chart-gantt.imageset/icon-monochrome-chart-gantt.pdf",
       "androidResourceName": "icon_monochrome_chart_gantt",
       "androidPath": "android/res/drawable/icon_monochrome_chart_gantt.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "chart-gantt",
       "pageName": "􀥧     Icons"
@@ -429,6 +464,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-chat.imageset/icon-monochrome-chat.pdf",
       "androidResourceName": "icon_monochrome_chat",
       "androidPath": "android/res/drawable/icon_monochrome_chat.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "chat",
       "pageName": "􀥧     Icons"
@@ -441,6 +477,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-checkbox-circle-mixed-fill.imageset/icon-monochrome-checkbox-circle-mixed-fill.pdf",
       "androidResourceName": "icon_monochrome_checkbox_circle_mixed_fill",
       "androidPath": "android/res/drawable/icon_monochrome_checkbox_circle_mixed_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "checkbox-circle-mixed-fill",
       "pageName": "􀥧     Icons"
@@ -453,6 +490,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-checkbox-circle-selected-fill.imageset/icon-monochrome-checkbox-circle-selected-fill.pdf",
       "androidResourceName": "icon_monochrome_checkbox_circle_selected_fill",
       "androidPath": "android/res/drawable/icon_monochrome_checkbox_circle_selected_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "checkbox-circle-selected-fill",
       "pageName": "􀥧     Icons"
@@ -465,6 +503,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-checkbox-circle-selected.imageset/icon-monochrome-checkbox-circle-selected.pdf",
       "androidResourceName": "icon_monochrome_checkbox_circle_selected",
       "androidPath": "android/res/drawable/icon_monochrome_checkbox_circle_selected.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "checkbox-circle-selected",
       "pageName": "􀥧     Icons"
@@ -477,6 +516,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-checkbox-circle-unselected.imageset/icon-monochrome-checkbox-circle-unselected.pdf",
       "androidResourceName": "icon_monochrome_checkbox_circle_unselected",
       "androidPath": "android/res/drawable/icon_monochrome_checkbox_circle_unselected.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "checkbox-circle-unselected",
       "pageName": "􀥧     Icons"
@@ -489,6 +529,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-checkbox-square-mixed-fill.imageset/icon-monochrome-checkbox-square-mixed-fill.pdf",
       "androidResourceName": "icon_monochrome_checkbox_square_mixed_fill",
       "androidPath": "android/res/drawable/icon_monochrome_checkbox_square_mixed_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "checkbox-square-mixed-fill",
       "pageName": "􀥧     Icons"
@@ -501,6 +542,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-checkbox-square-selected-fill-trimmed.imageset/icon-monochrome-checkbox-square-selected-fill-trimmed.pdf",
       "androidResourceName": "icon_monochrome_checkbox_square_selected_fill_trimmed",
       "androidPath": "android/res/drawable/icon_monochrome_checkbox_square_selected_fill_trimmed.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "checkbox-square-selected-fill-trimmed",
       "pageName": "􀥧     Icons"
@@ -513,6 +555,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-checkbox-square-selected-fill.imageset/icon-monochrome-checkbox-square-selected-fill.pdf",
       "androidResourceName": "icon_monochrome_checkbox_square_selected_fill",
       "androidPath": "android/res/drawable/icon_monochrome_checkbox_square_selected_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "checkbox-square-selected-fill",
       "pageName": "􀥧     Icons"
@@ -525,6 +568,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-checkbox-square-selected.imageset/icon-monochrome-checkbox-square-selected.pdf",
       "androidResourceName": "icon_monochrome_checkbox_square_selected",
       "androidPath": "android/res/drawable/icon_monochrome_checkbox_square_selected.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "checkbox-square-selected",
       "pageName": "􀥧     Icons"
@@ -537,6 +581,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-checkbox-square-unselected-trimmed.imageset/icon-monochrome-checkbox-square-unselected-trimmed.pdf",
       "androidResourceName": "icon_monochrome_checkbox_square_unselected_trimmed",
       "androidPath": "android/res/drawable/icon_monochrome_checkbox_square_unselected_trimmed.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "checkbox-square-unselected-trimmed",
       "pageName": "􀥧     Icons"
@@ -549,6 +594,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-checkbox-square-unselected.imageset/icon-monochrome-checkbox-square-unselected.pdf",
       "androidResourceName": "icon_monochrome_checkbox_square_unselected",
       "androidPath": "android/res/drawable/icon_monochrome_checkbox_square_unselected.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "checkbox-square-unselected",
       "pageName": "􀥧     Icons"
@@ -561,6 +607,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-checkmark.imageset/icon-monochrome-checkmark.pdf",
       "androidResourceName": "icon_monochrome_checkmark",
       "androidPath": "android/res/drawable/icon_monochrome_checkmark.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "checkmark",
       "pageName": "􀥧     Icons"
@@ -573,6 +620,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-chevron-collapsed.imageset/icon-monochrome-chevron-collapsed.pdf",
       "androidResourceName": "icon_monochrome_chevron_collapsed",
       "androidPath": "android/res/drawable/icon_monochrome_chevron_collapsed.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "chevron-collapsed",
       "pageName": "􀥧     Icons"
@@ -585,6 +633,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-chevron-expanded.imageset/icon-monochrome-chevron-expanded.pdf",
       "androidResourceName": "icon_monochrome_chevron_expanded",
       "androidPath": "android/res/drawable/icon_monochrome_chevron_expanded.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "chevron-expanded",
       "pageName": "􀥧     Icons"
@@ -597,6 +646,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-chevron-left.imageset/icon-monochrome-chevron-left.pdf",
       "androidResourceName": "icon_monochrome_chevron_left",
       "androidPath": "android/res/drawable/icon_monochrome_chevron_left.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "chevron-left",
       "pageName": "􀥧     Icons"
@@ -609,6 +659,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-chevron-right.imageset/icon-monochrome-chevron-right.pdf",
       "androidResourceName": "icon_monochrome_chevron_right",
       "androidPath": "android/res/drawable/icon_monochrome_chevron_right.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "chevron-right",
       "pageName": "􀥧     Icons"
@@ -621,6 +672,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-clear.imageset/icon-monochrome-clear.pdf",
       "androidResourceName": "icon_monochrome_clear",
       "androidPath": "android/res/drawable/icon_monochrome_clear.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "clear",
       "pageName": "􀥧     Icons"
@@ -633,6 +685,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-clock.imageset/icon-monochrome-clock.pdf",
       "androidResourceName": "icon_monochrome_clock",
       "androidPath": "android/res/drawable/icon_monochrome_clock.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "clock",
       "pageName": "􀥧     Icons"
@@ -645,6 +698,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-close.imageset/icon-monochrome-close.pdf",
       "androidResourceName": "icon_monochrome_close",
       "androidPath": "android/res/drawable/icon_monochrome_close.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "close",
       "pageName": "􀥧     Icons"
@@ -657,6 +711,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-collapse.imageset/icon-monochrome-collapse.pdf",
       "androidResourceName": "icon_monochrome_collapse",
       "androidPath": "android/res/drawable/icon_monochrome_collapse.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "collapse",
       "pageName": "􀥧     Icons"
@@ -669,6 +724,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-comment.imageset/icon-monochrome-comment.pdf",
       "androidResourceName": "icon_monochrome_comment",
       "androidPath": "android/res/drawable/icon_monochrome_comment.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "comment",
       "pageName": "􀥧     Icons"
@@ -681,6 +737,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-contractor.imageset/icon-monochrome-contractor.pdf",
       "androidResourceName": "icon_monochrome_contractor",
       "androidPath": "android/res/drawable/icon_monochrome_contractor.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "contractor",
       "pageName": "􀥧     Icons"
@@ -693,6 +750,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-copy-paste-down.imageset/icon-monochrome-copy-paste-down.pdf",
       "androidResourceName": "icon_monochrome_copy_paste_down",
       "androidPath": "android/res/drawable/icon_monochrome_copy_paste_down.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "copy-paste-down",
       "pageName": "􀥧     Icons"
@@ -705,6 +763,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-copy-paste-left.imageset/icon-monochrome-copy-paste-left.pdf",
       "androidResourceName": "icon_monochrome_copy_paste_left",
       "androidPath": "android/res/drawable/icon_monochrome_copy_paste_left.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "copy-paste-left",
       "pageName": "􀥧     Icons"
@@ -717,6 +776,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-copy-paste-right.imageset/icon-monochrome-copy-paste-right.pdf",
       "androidResourceName": "icon_monochrome_copy_paste_right",
       "androidPath": "android/res/drawable/icon_monochrome_copy_paste_right.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "copy-paste-right",
       "pageName": "􀥧     Icons"
@@ -729,6 +789,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-copy-paste-up.imageset/icon-monochrome-copy-paste-up.pdf",
       "androidResourceName": "icon_monochrome_copy_paste_up",
       "androidPath": "android/res/drawable/icon_monochrome_copy_paste_up.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "copy-paste-up",
       "pageName": "􀥧     Icons"
@@ -741,6 +802,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-copy.imageset/icon-monochrome-copy.pdf",
       "androidResourceName": "icon_monochrome_copy",
       "androidPath": "android/res/drawable/icon_monochrome_copy.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "copy",
       "pageName": "􀥧     Icons"
@@ -753,6 +815,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-customer.imageset/icon-monochrome-customer.pdf",
       "androidResourceName": "icon_monochrome_customer",
       "androidPath": "android/res/drawable/icon_monochrome_customer.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "customer",
       "pageName": "􀥧     Icons"
@@ -765,6 +828,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-cut.imageset/icon-monochrome-cut.pdf",
       "androidResourceName": "icon_monochrome_cut",
       "androidPath": "android/res/drawable/icon_monochrome_cut.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "cut",
       "pageName": "􀥧     Icons"
@@ -777,8 +841,22 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-dark.imageset/icon-monochrome-dark.pdf",
       "androidResourceName": "icon_monochrome_dark",
       "androidPath": "android/res/drawable/icon_monochrome_dark.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "dark",
+      "pageName": "􀥧     Icons"
+    },
+    {
+      "figmaComponentId": "13699:146",
+      "webPath": "web/icons/monochrome/day.svg",
+      "iosAssetName": "icon-monochrome-day",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-day.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-day.imageset/icon-monochrome-day.pdf",
+      "androidResourceName": "icon_monochrome_day",
+      "androidPath": "android/res/drawable/icon_monochrome_day.xml",
+      "androidFallbackPath": "",
+      "category": "monochrome",
+      "sourceName": "day",
       "pageName": "􀥧     Icons"
     },
     {
@@ -789,6 +867,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-deadline.imageset/icon-monochrome-deadline.pdf",
       "androidResourceName": "icon_monochrome_deadline",
       "androidPath": "android/res/drawable/icon_monochrome_deadline.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "deadline",
       "pageName": "􀥧     Icons"
@@ -801,6 +880,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-delete.imageset/icon-monochrome-delete.pdf",
       "androidResourceName": "icon_monochrome_delete",
       "androidPath": "android/res/drawable/icon_monochrome_delete.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "delete",
       "pageName": "􀥧     Icons"
@@ -813,6 +893,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-description.imageset/icon-monochrome-description.pdf",
       "androidResourceName": "icon_monochrome_description",
       "androidPath": "android/res/drawable/icon_monochrome_description.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "description",
       "pageName": "􀥧     Icons"
@@ -825,6 +906,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-desktop.imageset/icon-monochrome-desktop.pdf",
       "androidResourceName": "icon_monochrome_desktop",
       "androidPath": "android/res/drawable/icon_monochrome_desktop.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "desktop",
       "pageName": "􀥧     Icons"
@@ -837,6 +919,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-doc-excel-fill.imageset/icon-monochrome-doc-excel-fill.pdf",
       "androidResourceName": "icon_monochrome_doc_excel_fill",
       "androidPath": "android/res/drawable/icon_monochrome_doc_excel_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "doc.excel-fill",
       "pageName": "􀥧     Icons"
@@ -849,6 +932,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-doc-excel.imageset/icon-monochrome-doc-excel.pdf",
       "androidResourceName": "icon_monochrome_doc_excel",
       "androidPath": "android/res/drawable/icon_monochrome_doc_excel.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "doc.excel",
       "pageName": "􀥧     Icons"
@@ -861,6 +945,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-doc-export.imageset/icon-monochrome-doc-export.pdf",
       "androidResourceName": "icon_monochrome_doc_export",
       "androidPath": "android/res/drawable/icon_monochrome_doc_export.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "doc-export",
       "pageName": "􀥧     Icons"
@@ -873,6 +958,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-doc-file.imageset/icon-monochrome-doc-file.pdf",
       "androidResourceName": "icon_monochrome_doc_file",
       "androidPath": "android/res/drawable/icon_monochrome_doc_file.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "doc-file",
       "pageName": "􀥧     Icons"
@@ -885,6 +971,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-doc-import.imageset/icon-monochrome-doc-import.pdf",
       "androidResourceName": "icon_monochrome_doc_import",
       "androidPath": "android/res/drawable/icon_monochrome_doc_import.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "doc-import",
       "pageName": "􀥧     Icons"
@@ -897,6 +984,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-doc-pdf-fill.imageset/icon-monochrome-doc-pdf-fill.pdf",
       "androidResourceName": "icon_monochrome_doc_pdf_fill",
       "androidPath": "android/res/drawable/icon_monochrome_doc_pdf_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "doc-pdf-fill",
       "pageName": "􀥧     Icons"
@@ -909,6 +997,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-doc-pdf.imageset/icon-monochrome-doc-pdf.pdf",
       "androidResourceName": "icon_monochrome_doc_pdf",
       "androidPath": "android/res/drawable/icon_monochrome_doc_pdf.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "doc-pdf",
       "pageName": "􀥧     Icons"
@@ -921,6 +1010,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-doc.imageset/icon-monochrome-doc.pdf",
       "androidResourceName": "icon_monochrome_doc",
       "androidPath": "android/res/drawable/icon_monochrome_doc.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "doc",
       "pageName": "􀥧     Icons"
@@ -933,6 +1023,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-download.imageset/icon-monochrome-download.pdf",
       "androidResourceName": "icon_monochrome_download",
       "androidPath": "android/res/drawable/icon_monochrome_download.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "download",
       "pageName": "􀥧     Icons"
@@ -945,6 +1036,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-drag-handle-trimmed.imageset/icon-monochrome-drag-handle-trimmed.pdf",
       "androidResourceName": "icon_monochrome_drag_handle_trimmed",
       "androidPath": "android/res/drawable/icon_monochrome_drag_handle_trimmed.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "drag-handle-trimmed",
       "pageName": "􀥧     Icons"
@@ -957,6 +1049,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-drag-handle.imageset/icon-monochrome-drag-handle.pdf",
       "androidResourceName": "icon_monochrome_drag_handle",
       "androidPath": "android/res/drawable/icon_monochrome_drag_handle.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "drag-handle",
       "pageName": "􀥧     Icons"
@@ -969,6 +1062,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-dublicate.imageset/icon-monochrome-dublicate.pdf",
       "androidResourceName": "icon_monochrome_dublicate",
       "androidPath": "android/res/drawable/icon_monochrome_dublicate.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "dublicate",
       "pageName": "􀥧     Icons"
@@ -981,6 +1075,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-echo.imageset/icon-monochrome-echo.pdf",
       "androidResourceName": "icon_monochrome_echo",
       "androidPath": "android/res/drawable/icon_monochrome_echo.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "echo",
       "pageName": "􀥧     Icons"
@@ -993,6 +1088,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-edit-slider.imageset/icon-monochrome-edit-slider.pdf",
       "androidResourceName": "icon_monochrome_edit_slider",
       "androidPath": "android/res/drawable/icon_monochrome_edit_slider.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "edit.slider",
       "pageName": "􀥧     Icons"
@@ -1005,6 +1101,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-edit.imageset/icon-monochrome-edit.pdf",
       "androidResourceName": "icon_monochrome_edit",
       "androidPath": "android/res/drawable/icon_monochrome_edit.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "edit",
       "pageName": "􀥧     Icons"
@@ -1017,6 +1114,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-education.imageset/icon-monochrome-education.pdf",
       "androidResourceName": "icon_monochrome_education",
       "androidPath": "android/res/drawable/icon_monochrome_education.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "education",
       "pageName": "􀥧     Icons"
@@ -1029,6 +1127,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-error.imageset/icon-monochrome-error.pdf",
       "androidResourceName": "icon_monochrome_error",
       "androidPath": "android/res/drawable/icon_monochrome_error.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "error",
       "pageName": "􀥧     Icons"
@@ -1041,6 +1140,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-event-type.imageset/icon-monochrome-event-type.pdf",
       "androidResourceName": "icon_monochrome_event_type",
       "androidPath": "android/res/drawable/icon_monochrome_event_type.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "event-type",
       "pageName": "􀥧     Icons"
@@ -1053,6 +1153,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-exit.imageset/icon-monochrome-exit.pdf",
       "androidResourceName": "icon_monochrome_exit",
       "androidPath": "android/res/drawable/icon_monochrome_exit.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "exit",
       "pageName": "􀥧     Icons"
@@ -1065,6 +1166,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-expand.imageset/icon-monochrome-expand.pdf",
       "androidResourceName": "icon_monochrome_expand",
       "androidPath": "android/res/drawable/icon_monochrome_expand.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "expand",
       "pageName": "􀥧     Icons"
@@ -1077,6 +1179,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-expense-item.imageset/icon-monochrome-expense-item.pdf",
       "androidResourceName": "icon_monochrome_expense_item",
       "androidPath": "android/res/drawable/icon_monochrome_expense_item.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "expense-item",
       "pageName": "􀥧     Icons"
@@ -1089,6 +1192,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-file-add.imageset/icon-monochrome-file-add.pdf",
       "androidResourceName": "icon_monochrome_file_add",
       "androidPath": "android/res/drawable/icon_monochrome_file_add.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "file-add",
       "pageName": "􀥧     Icons"
@@ -1101,6 +1205,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-filter-off.imageset/icon-monochrome-filter-off.pdf",
       "androidResourceName": "icon_monochrome_filter_off",
       "androidPath": "android/res/drawable/icon_monochrome_filter_off.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "filter-off",
       "pageName": "􀥧     Icons"
@@ -1113,6 +1218,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-filter-on.imageset/icon-monochrome-filter-on.pdf",
       "androidResourceName": "icon_monochrome_filter_on",
       "androidPath": "android/res/drawable/icon_monochrome_filter_on.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "filter-on",
       "pageName": "􀥧     Icons"
@@ -1125,6 +1231,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-financial-chart.imageset/icon-monochrome-financial-chart.pdf",
       "androidResourceName": "icon_monochrome_financial_chart",
       "androidPath": "android/res/drawable/icon_monochrome_financial_chart.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "financial-chart",
       "pageName": "􀥧     Icons"
@@ -1137,6 +1244,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-folder.imageset/icon-monochrome-folder.pdf",
       "androidResourceName": "icon_monochrome_folder",
       "androidPath": "android/res/drawable/icon_monochrome_folder.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "folder",
       "pageName": "􀥧     Icons"
@@ -1149,6 +1257,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-formula.imageset/icon-monochrome-formula.pdf",
       "androidResourceName": "icon_monochrome_formula",
       "androidPath": "android/res/drawable/icon_monochrome_formula.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "formula",
       "pageName": "􀥧     Icons"
@@ -1161,6 +1270,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-foundation-fill.imageset/icon-monochrome-foundation-fill.pdf",
       "androidResourceName": "icon_monochrome_foundation_fill",
       "androidPath": "android/res/drawable/icon_monochrome_foundation_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "foundation-fill",
       "pageName": "􀥧     Icons"
@@ -1173,6 +1283,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-foundation.imageset/icon-monochrome-foundation.pdf",
       "androidResourceName": "icon_monochrome_foundation",
       "androidPath": "android/res/drawable/icon_monochrome_foundation.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "foundation",
       "pageName": "􀥧     Icons"
@@ -1185,6 +1296,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-funnel.imageset/icon-monochrome-funnel.pdf",
       "androidResourceName": "icon_monochrome_funnel",
       "androidPath": "android/res/drawable/icon_monochrome_funnel.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "funnel",
       "pageName": "􀥧     Icons"
@@ -1197,6 +1309,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-gear.imageset/icon-monochrome-gear.pdf",
       "androidResourceName": "icon_monochrome_gear",
       "androidPath": "android/res/drawable/icon_monochrome_gear.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "gear",
       "pageName": "􀥧     Icons"
@@ -1209,6 +1322,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-grabber.imageset/icon-monochrome-grabber.pdf",
       "androidResourceName": "icon_monochrome_grabber",
       "androidPath": "android/res/drawable/icon_monochrome_grabber.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "grabber",
       "pageName": "􀥧     Icons"
@@ -1221,6 +1335,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-grouping.imageset/icon-monochrome-grouping.pdf",
       "androidResourceName": "icon_monochrome_grouping",
       "androidPath": "android/res/drawable/icon_monochrome_grouping.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "grouping",
       "pageName": "􀥧     Icons"
@@ -1233,6 +1348,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-help-circle.imageset/icon-monochrome-help-circle.pdf",
       "androidResourceName": "icon_monochrome_help_circle",
       "androidPath": "android/res/drawable/icon_monochrome_help_circle.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "help-circle",
       "pageName": "􀥧     Icons"
@@ -1245,6 +1361,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-help.imageset/icon-monochrome-help.pdf",
       "androidResourceName": "icon_monochrome_help",
       "androidPath": "android/res/drawable/icon_monochrome_help.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "help",
       "pageName": "􀥧     Icons"
@@ -1257,6 +1374,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-hide.imageset/icon-monochrome-hide.pdf",
       "androidResourceName": "icon_monochrome_hide",
       "androidPath": "android/res/drawable/icon_monochrome_hide.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "hide",
       "pageName": "􀥧     Icons"
@@ -1269,6 +1387,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-house.imageset/icon-monochrome-house.pdf",
       "androidResourceName": "icon_monochrome_house",
       "androidPath": "android/res/drawable/icon_monochrome_house.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "house",
       "pageName": "􀥧     Icons"
@@ -1281,6 +1400,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-import.imageset/icon-monochrome-import.pdf",
       "androidResourceName": "icon_monochrome_import",
       "androidPath": "android/res/drawable/icon_monochrome_import.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "import",
       "pageName": "􀥧     Icons"
@@ -1293,6 +1413,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-infinity.imageset/icon-monochrome-infinity.pdf",
       "androidResourceName": "icon_monochrome_infinity",
       "androidPath": "android/res/drawable/icon_monochrome_infinity.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "infinity",
       "pageName": "􀥧     Icons"
@@ -1305,6 +1426,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-info-circle.imageset/icon-monochrome-info-circle.pdf",
       "androidResourceName": "icon_monochrome_info_circle",
       "androidPath": "android/res/drawable/icon_monochrome_info_circle.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "info-circle",
       "pageName": "􀥧     Icons"
@@ -1317,6 +1439,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-info.imageset/icon-monochrome-info.pdf",
       "androidResourceName": "icon_monochrome_info",
       "androidPath": "android/res/drawable/icon_monochrome_info.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "info",
       "pageName": "􀥧     Icons"
@@ -1329,6 +1452,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-ios.imageset/icon-monochrome-ios.pdf",
       "androidResourceName": "icon_monochrome_ios",
       "androidPath": "android/res/drawable/icon_monochrome_ios.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "ios",
       "pageName": "􀥧     Icons"
@@ -1341,6 +1465,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-key.imageset/icon-monochrome-key.pdf",
       "androidResourceName": "icon_monochrome_key",
       "androidPath": "android/res/drawable/icon_monochrome_key.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "key",
       "pageName": "􀥧     Icons"
@@ -1353,6 +1478,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-language.imageset/icon-monochrome-language.pdf",
       "androidResourceName": "icon_monochrome_language",
       "androidPath": "android/res/drawable/icon_monochrome_language.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "language",
       "pageName": "􀥧     Icons"
@@ -1365,6 +1491,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-light.imageset/icon-monochrome-light.pdf",
       "androidResourceName": "icon_monochrome_light",
       "androidPath": "android/res/drawable/icon_monochrome_light.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "light",
       "pageName": "􀥧     Icons"
@@ -1377,6 +1504,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-line-chart.imageset/icon-monochrome-line-chart.pdf",
       "androidResourceName": "icon_monochrome_line_chart",
       "androidPath": "android/res/drawable/icon_monochrome_line_chart.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "line-chart",
       "pageName": "􀥧     Icons"
@@ -1389,6 +1517,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-link-arrow.imageset/icon-monochrome-link-arrow.pdf",
       "androidResourceName": "icon_monochrome_link_arrow",
       "androidPath": "android/res/drawable/icon_monochrome_link_arrow.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "link-arrow",
       "pageName": "􀥧     Icons"
@@ -1401,6 +1530,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-link.imageset/icon-monochrome-link.pdf",
       "androidResourceName": "icon_monochrome_link",
       "androidPath": "android/res/drawable/icon_monochrome_link.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "link",
       "pageName": "􀥧     Icons"
@@ -1413,6 +1543,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-lock-fill.imageset/icon-monochrome-lock-fill.pdf",
       "androidResourceName": "icon_monochrome_lock_fill",
       "androidPath": "android/res/drawable/icon_monochrome_lock_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "lock-fill",
       "pageName": "􀥧     Icons"
@@ -1425,6 +1556,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-lock-open-fill.imageset/icon-monochrome-lock-open-fill.pdf",
       "androidResourceName": "icon_monochrome_lock_open_fill",
       "androidPath": "android/res/drawable/icon_monochrome_lock_open_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "lock-open-fill",
       "pageName": "􀥧     Icons"
@@ -1437,6 +1569,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-lock-open.imageset/icon-monochrome-lock-open.pdf",
       "androidResourceName": "icon_monochrome_lock_open",
       "androidPath": "android/res/drawable/icon_monochrome_lock_open.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "lock-open",
       "pageName": "􀥧     Icons"
@@ -1449,6 +1582,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-lock.imageset/icon-monochrome-lock.pdf",
       "androidResourceName": "icon_monochrome_lock",
       "androidPath": "android/res/drawable/icon_monochrome_lock.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "lock",
       "pageName": "􀥧     Icons"
@@ -1461,6 +1595,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-max.imageset/icon-monochrome-max.pdf",
       "androidResourceName": "icon_monochrome_max",
       "androidPath": "android/res/drawable/icon_monochrome_max.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "max",
       "pageName": "􀥧     Icons"
@@ -1473,6 +1608,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-mcp.imageset/icon-monochrome-mcp.pdf",
       "androidResourceName": "icon_monochrome_mcp",
       "androidPath": "android/res/drawable/icon_monochrome_mcp.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "mcp",
       "pageName": "􀥧     Icons"
@@ -1485,6 +1621,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-message-read.imageset/icon-monochrome-message-read.pdf",
       "androidResourceName": "icon_monochrome_message_read",
       "androidPath": "android/res/drawable/icon_monochrome_message_read.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "message-read",
       "pageName": "􀥧     Icons"
@@ -1497,6 +1634,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-message-sent.imageset/icon-monochrome-message-sent.pdf",
       "androidResourceName": "icon_monochrome_message_sent",
       "androidPath": "android/res/drawable/icon_monochrome_message_sent.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "message-sent",
       "pageName": "􀥧     Icons"
@@ -1509,6 +1647,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-microphone-off-fill.imageset/icon-monochrome-microphone-off-fill.pdf",
       "androidResourceName": "icon_monochrome_microphone_off_fill",
       "androidPath": "android/res/drawable/icon_monochrome_microphone_off_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "microphone-off-fill",
       "pageName": "􀥧     Icons"
@@ -1521,6 +1660,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-microphone-off.imageset/icon-monochrome-microphone-off.pdf",
       "androidResourceName": "icon_monochrome_microphone_off",
       "androidPath": "android/res/drawable/icon_monochrome_microphone_off.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "microphone-off",
       "pageName": "􀥧     Icons"
@@ -1533,6 +1673,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-microphone-on-fill.imageset/icon-monochrome-microphone-on-fill.pdf",
       "androidResourceName": "icon_monochrome_microphone_on_fill",
       "androidPath": "android/res/drawable/icon_monochrome_microphone_on_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "microphone-on-fill",
       "pageName": "􀥧     Icons"
@@ -1545,6 +1686,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-microphone-on.imageset/icon-monochrome-microphone-on.pdf",
       "androidResourceName": "icon_monochrome_microphone_on",
       "androidPath": "android/res/drawable/icon_monochrome_microphone_on.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "microphone-on",
       "pageName": "􀥧     Icons"
@@ -1557,6 +1699,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-mincifri.imageset/icon-monochrome-mincifri.pdf",
       "androidResourceName": "",
       "androidPath": "",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "mincifri",
       "pageName": "􀥧     Icons"
@@ -1569,6 +1712,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-minus-circle-fill.imageset/icon-monochrome-minus-circle-fill.pdf",
       "androidResourceName": "icon_monochrome_minus_circle_fill",
       "androidPath": "android/res/drawable/icon_monochrome_minus_circle_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "minus-circle-fill",
       "pageName": "􀥧     Icons"
@@ -1581,8 +1725,22 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-minus-circle.imageset/icon-monochrome-minus-circle.pdf",
       "androidResourceName": "icon_monochrome_minus_circle",
       "androidPath": "android/res/drawable/icon_monochrome_minus_circle.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "minus-circle",
+      "pageName": "􀥧     Icons"
+    },
+    {
+      "figmaComponentId": "13699:145",
+      "webPath": "web/icons/monochrome/month.svg",
+      "iosAssetName": "icon-monochrome-month",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-month.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-month.imageset/icon-monochrome-month.pdf",
+      "androidResourceName": "icon_monochrome_month",
+      "androidPath": "android/res/drawable/icon_monochrome_month.xml",
+      "androidFallbackPath": "",
+      "category": "monochrome",
+      "sourceName": "month",
       "pageName": "􀥧     Icons"
     },
     {
@@ -1593,6 +1751,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-more.imageset/icon-monochrome-more.pdf",
       "androidResourceName": "icon_monochrome_more",
       "androidPath": "android/res/drawable/icon_monochrome_more.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "more",
       "pageName": "􀥧     Icons"
@@ -1605,6 +1764,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-notifications-fill.imageset/icon-monochrome-notifications-fill.pdf",
       "androidResourceName": "icon_monochrome_notifications_fill",
       "androidPath": "android/res/drawable/icon_monochrome_notifications_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "notifications-fill",
       "pageName": "􀥧     Icons"
@@ -1617,6 +1777,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-notifications-unread-fill.imageset/icon-monochrome-notifications-unread-fill.pdf",
       "androidResourceName": "icon_monochrome_notifications_unread_fill",
       "androidPath": "android/res/drawable/icon_monochrome_notifications_unread_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "notifications-unread-fill",
       "pageName": "􀥧     Icons"
@@ -1629,6 +1790,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-notifications-unread.imageset/icon-monochrome-notifications-unread.pdf",
       "androidResourceName": "icon_monochrome_notifications_unread",
       "androidPath": "android/res/drawable/icon_monochrome_notifications_unread.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "notifications-unread",
       "pageName": "􀥧     Icons"
@@ -1641,6 +1803,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-notifications.imageset/icon-monochrome-notifications.pdf",
       "androidResourceName": "icon_monochrome_notifications",
       "androidPath": "android/res/drawable/icon_monochrome_notifications.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "notifications",
       "pageName": "􀥧     Icons"
@@ -1653,6 +1816,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-ontractor-relations.imageset/icon-monochrome-ontractor-relations.pdf",
       "androidResourceName": "icon_monochrome_ontractor_relations",
       "androidPath": "android/res/drawable/icon_monochrome_ontractor_relations.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "сontractor-relations",
       "pageName": "􀥧     Icons"
@@ -1665,6 +1829,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-parameters.imageset/icon-monochrome-parameters.pdf",
       "androidResourceName": "icon_monochrome_parameters",
       "androidPath": "android/res/drawable/icon_monochrome_parameters.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "parameters",
       "pageName": "􀥧     Icons"
@@ -1677,6 +1842,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-password.imageset/icon-monochrome-password.pdf",
       "androidResourceName": "icon_monochrome_password",
       "androidPath": "android/res/drawable/icon_monochrome_password.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "password",
       "pageName": "􀥧     Icons"
@@ -1689,6 +1855,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-paste.imageset/icon-monochrome-paste.pdf",
       "androidResourceName": "icon_monochrome_paste",
       "androidPath": "android/res/drawable/icon_monochrome_paste.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "paste",
       "pageName": "􀥧     Icons"
@@ -1701,6 +1868,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-pause-circle-fill.imageset/icon-monochrome-pause-circle-fill.pdf",
       "androidResourceName": "icon_monochrome_pause_circle_fill",
       "androidPath": "android/res/drawable/icon_monochrome_pause_circle_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "pause-circle-fill",
       "pageName": "􀥧     Icons"
@@ -1713,6 +1881,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-pause-fill.imageset/icon-monochrome-pause-fill.pdf",
       "androidResourceName": "icon_monochrome_pause_fill",
       "androidPath": "android/res/drawable/icon_monochrome_pause_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "pause-fill",
       "pageName": "􀥧     Icons"
@@ -1725,6 +1894,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-percent.imageset/icon-monochrome-percent.pdf",
       "androidResourceName": "icon_monochrome_percent",
       "androidPath": "android/res/drawable/icon_monochrome_percent.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "percent",
       "pageName": "􀥧     Icons"
@@ -1737,6 +1907,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-phone.imageset/icon-monochrome-phone.pdf",
       "androidResourceName": "icon_monochrome_phone",
       "androidPath": "android/res/drawable/icon_monochrome_phone.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "phone",
       "pageName": "􀥧     Icons"
@@ -1749,6 +1920,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-photo.imageset/icon-monochrome-photo.pdf",
       "androidResourceName": "icon_monochrome_photo",
       "androidPath": "android/res/drawable/icon_monochrome_photo.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "photo",
       "pageName": "􀥧     Icons"
@@ -1761,6 +1933,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-photo2.imageset/icon-monochrome-photo2.pdf",
       "androidResourceName": "icon_monochrome_photo2",
       "androidPath": "android/res/drawable/icon_monochrome_photo2.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "photo2",
       "pageName": "􀥧     Icons"
@@ -1773,6 +1946,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-pin-fill.imageset/icon-monochrome-pin-fill.pdf",
       "androidResourceName": "icon_monochrome_pin_fill",
       "androidPath": "android/res/drawable/icon_monochrome_pin_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "pin-fill",
       "pageName": "􀥧     Icons"
@@ -1785,6 +1959,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-pin.imageset/icon-monochrome-pin.pdf",
       "androidResourceName": "icon_monochrome_pin",
       "androidPath": "android/res/drawable/icon_monochrome_pin.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "pin",
       "pageName": "􀥧     Icons"
@@ -1797,6 +1972,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-play-circle-fill.imageset/icon-monochrome-play-circle-fill.pdf",
       "androidResourceName": "icon_monochrome_play_circle_fill",
       "androidPath": "android/res/drawable/icon_monochrome_play_circle_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "play-circle-fill",
       "pageName": "􀥧     Icons"
@@ -1809,6 +1985,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-play-continuous-off.imageset/icon-monochrome-play-continuous-off.pdf",
       "androidResourceName": "icon_monochrome_play_continuous_off",
       "androidPath": "android/res/drawable/icon_monochrome_play_continuous_off.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "play-continuous-off",
       "pageName": "􀥧     Icons"
@@ -1821,6 +1998,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-play-continuous-on.imageset/icon-monochrome-play-continuous-on.pdf",
       "androidResourceName": "icon_monochrome_play_continuous_on",
       "androidPath": "android/res/drawable/icon_monochrome_play_continuous_on.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "play-continuous-on",
       "pageName": "􀥧     Icons"
@@ -1833,6 +2011,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-play-fill.imageset/icon-monochrome-play-fill.pdf",
       "androidResourceName": "icon_monochrome_play_fill",
       "androidPath": "android/res/drawable/icon_monochrome_play_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "play-fill",
       "pageName": "􀥧     Icons"
@@ -1845,6 +2024,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-plus-circle-fill.imageset/icon-monochrome-plus-circle-fill.pdf",
       "androidResourceName": "icon_monochrome_plus_circle_fill",
       "androidPath": "android/res/drawable/icon_monochrome_plus_circle_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "plus-circle-fill",
       "pageName": "􀥧     Icons"
@@ -1857,6 +2037,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-plus-circle.imageset/icon-monochrome-plus-circle.pdf",
       "androidResourceName": "icon_monochrome_plus_circle",
       "androidPath": "android/res/drawable/icon_monochrome_plus_circle.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "plus-circle",
       "pageName": "􀥧     Icons"
@@ -1869,6 +2050,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-plus.imageset/icon-monochrome-plus.pdf",
       "androidResourceName": "icon_monochrome_plus",
       "androidPath": "android/res/drawable/icon_monochrome_plus.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "plus",
       "pageName": "􀥧     Icons"
@@ -1881,6 +2063,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-policy.imageset/icon-monochrome-policy.pdf",
       "androidResourceName": "icon_monochrome_policy",
       "androidPath": "android/res/drawable/icon_monochrome_policy.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "policy",
       "pageName": "􀥧     Icons"
@@ -1893,6 +2076,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-position-manual.imageset/icon-monochrome-position-manual.pdf",
       "androidResourceName": "icon_monochrome_position_manual",
       "androidPath": "android/res/drawable/icon_monochrome_position_manual.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "position-manual",
       "pageName": "􀥧     Icons"
@@ -1905,6 +2089,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-prelead.imageset/icon-monochrome-prelead.pdf",
       "androidResourceName": "icon_monochrome_prelead",
       "androidPath": "android/res/drawable/icon_monochrome_prelead.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "prelead",
       "pageName": "􀥧     Icons"
@@ -1917,6 +2102,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-pricelist.imageset/icon-monochrome-pricelist.pdf",
       "androidResourceName": "icon_monochrome_pricelist",
       "androidPath": "android/res/drawable/icon_monochrome_pricelist.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "pricelist",
       "pageName": "􀥧     Icons"
@@ -1929,6 +2115,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-printer.imageset/icon-monochrome-printer.pdf",
       "androidResourceName": "icon_monochrome_printer",
       "androidPath": "android/res/drawable/icon_monochrome_printer.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "printer",
       "pageName": "􀥧     Icons"
@@ -1941,6 +2128,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-privacy.imageset/icon-monochrome-privacy.pdf",
       "androidResourceName": "icon_monochrome_privacy",
       "androidPath": "android/res/drawable/icon_monochrome_privacy.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "privacy",
       "pageName": "􀥧     Icons"
@@ -1953,6 +2141,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-products.imageset/icon-monochrome-products.pdf",
       "androidResourceName": "icon_monochrome_products",
       "androidPath": "android/res/drawable/icon_monochrome_products.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "products",
       "pageName": "􀥧     Icons"
@@ -1965,6 +2154,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-project-manager.imageset/icon-monochrome-project-manager.pdf",
       "androidResourceName": "icon_monochrome_project_manager",
       "androidPath": "android/res/drawable/icon_monochrome_project_manager.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "project-manager",
       "pageName": "􀥧     Icons"
@@ -1977,6 +2167,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-project.imageset/icon-monochrome-project.pdf",
       "androidResourceName": "icon_monochrome_project",
       "androidPath": "android/res/drawable/icon_monochrome_project.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "project",
       "pageName": "􀥧     Icons"
@@ -1989,6 +2180,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-publish.imageset/icon-monochrome-publish.pdf",
       "androidResourceName": "icon_monochrome_publish",
       "androidPath": "android/res/drawable/icon_monochrome_publish.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "publish",
       "pageName": "􀥧     Icons"
@@ -2001,6 +2193,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-qr-failed.imageset/icon-monochrome-qr-failed.pdf",
       "androidResourceName": "icon_monochrome_qr_failed",
       "androidPath": "android/res/drawable/icon_monochrome_qr_failed.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "qr_failed",
       "pageName": "􀥧     Icons"
@@ -2013,6 +2206,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-qr-pending.imageset/icon-monochrome-qr-pending.pdf",
       "androidResourceName": "icon_monochrome_qr_pending",
       "androidPath": "android/res/drawable/icon_monochrome_qr_pending.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "qr-pending",
       "pageName": "􀥧     Icons"
@@ -2025,6 +2219,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-qr-recognized.imageset/icon-monochrome-qr-recognized.pdf",
       "androidResourceName": "icon_monochrome_qr_recognized",
       "androidPath": "android/res/drawable/icon_monochrome_qr_recognized.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "qr_recognized",
       "pageName": "􀥧     Icons"
@@ -2037,6 +2232,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-qrcode-scan.imageset/icon-monochrome-qrcode-scan.pdf",
       "androidResourceName": "icon_monochrome_qrcode_scan",
       "androidPath": "android/res/drawable/icon_monochrome_qrcode_scan.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "qrcode-scan",
       "pageName": "􀥧     Icons"
@@ -2049,6 +2245,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-qrcode.imageset/icon-monochrome-qrcode.pdf",
       "androidResourceName": "icon_monochrome_qrcode",
       "androidPath": "android/res/drawable/icon_monochrome_qrcode.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "qrcode",
       "pageName": "􀥧     Icons"
@@ -2061,6 +2258,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-record.imageset/icon-monochrome-record.pdf",
       "androidResourceName": "icon_monochrome_record",
       "androidPath": "android/res/drawable/icon_monochrome_record.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "record",
       "pageName": "􀥧     Icons"
@@ -2073,6 +2271,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-refresh.imageset/icon-monochrome-refresh.pdf",
       "androidResourceName": "icon_monochrome_refresh",
       "androidPath": "android/res/drawable/icon_monochrome_refresh.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "refresh",
       "pageName": "􀥧     Icons"
@@ -2085,6 +2284,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-reply.imageset/icon-monochrome-reply.pdf",
       "androidResourceName": "icon_monochrome_reply",
       "androidPath": "android/res/drawable/icon_monochrome_reply.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "reply",
       "pageName": "􀥧     Icons"
@@ -2097,6 +2297,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-return-from-deleted.imageset/icon-monochrome-return-from-deleted.pdf",
       "androidResourceName": "icon_monochrome_return_from_deleted",
       "androidPath": "android/res/drawable/icon_monochrome_return_from_deleted.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "return-from-deleted",
       "pageName": "􀥧     Icons"
@@ -2109,6 +2310,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-roulette-fill.imageset/icon-monochrome-roulette-fill.pdf",
       "androidResourceName": "icon_monochrome_roulette_fill",
       "androidPath": "android/res/drawable/icon_monochrome_roulette_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "roulette-fill",
       "pageName": "􀥧     Icons"
@@ -2121,6 +2323,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-roulette.imageset/icon-monochrome-roulette.pdf",
       "androidResourceName": "icon_monochrome_roulette",
       "androidPath": "android/res/drawable/icon_monochrome_roulette.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "roulette",
       "pageName": "􀥧     Icons"
@@ -2133,6 +2336,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-safari.imageset/icon-monochrome-safari.pdf",
       "androidResourceName": "icon_monochrome_safari",
       "androidPath": "android/res/drawable/icon_monochrome_safari.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "safari",
       "pageName": "􀥧     Icons"
@@ -2145,6 +2349,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-sales.imageset/icon-monochrome-sales.pdf",
       "androidResourceName": "icon_monochrome_sales",
       "androidPath": "android/res/drawable/icon_monochrome_sales.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "sales",
       "pageName": "􀥧     Icons"
@@ -2157,6 +2362,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-screen-share-desktop-off.imageset/icon-monochrome-screen-share-desktop-off.pdf",
       "androidResourceName": "icon_monochrome_screen_share_desktop_off",
       "androidPath": "android/res/drawable/icon_monochrome_screen_share_desktop_off.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "screen-share-desktop-off",
       "pageName": "􀥧     Icons"
@@ -2169,6 +2375,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-screen-share-desktop-on.imageset/icon-monochrome-screen-share-desktop-on.pdf",
       "androidResourceName": "icon_monochrome_screen_share_desktop_on",
       "androidPath": "android/res/drawable/icon_monochrome_screen_share_desktop_on.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "screen-share-desktop-on",
       "pageName": "􀥧     Icons"
@@ -2181,6 +2388,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-screen-share-mobile-off.imageset/icon-monochrome-screen-share-mobile-off.pdf",
       "androidResourceName": "icon_monochrome_screen_share_mobile_off",
       "androidPath": "android/res/drawable/icon_monochrome_screen_share_mobile_off.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "screen-share-mobile-off",
       "pageName": "􀥧     Icons"
@@ -2193,6 +2401,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-screen-share-mobile-on.imageset/icon-monochrome-screen-share-mobile-on.pdf",
       "androidResourceName": "icon_monochrome_screen_share_mobile_on",
       "androidPath": "android/res/drawable/icon_monochrome_screen_share_mobile_on.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "screen-share-mobile-on",
       "pageName": "􀥧     Icons"
@@ -2205,6 +2414,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-search.imageset/icon-monochrome-search.pdf",
       "androidResourceName": "icon_monochrome_search",
       "androidPath": "android/res/drawable/icon_monochrome_search.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "search",
       "pageName": "􀥧     Icons"
@@ -2217,6 +2427,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-server.imageset/icon-monochrome-server.pdf",
       "androidResourceName": "icon_monochrome_server",
       "androidPath": "android/res/drawable/icon_monochrome_server.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "server",
       "pageName": "􀥧     Icons"
@@ -2229,6 +2440,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-settings.imageset/icon-monochrome-settings.pdf",
       "androidResourceName": "icon_monochrome_settings",
       "androidPath": "android/res/drawable/icon_monochrome_settings.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "settings",
       "pageName": "􀥧     Icons"
@@ -2241,6 +2453,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-share-android.imageset/icon-monochrome-share-android.pdf",
       "androidResourceName": "icon_monochrome_share_android",
       "androidPath": "android/res/drawable/icon_monochrome_share_android.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "share-android",
       "pageName": "􀥧     Icons"
@@ -2253,6 +2466,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-share-ios.imageset/icon-monochrome-share-ios.pdf",
       "androidResourceName": "icon_monochrome_share_ios",
       "androidPath": "android/res/drawable/icon_monochrome_share_ios.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "share-ios",
       "pageName": "􀥧     Icons"
@@ -2265,6 +2479,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-shares.imageset/icon-monochrome-shares.pdf",
       "androidResourceName": "icon_monochrome_shares",
       "androidPath": "android/res/drawable/icon_monochrome_shares.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "shares",
       "pageName": "􀥧     Icons"
@@ -2277,6 +2492,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-show-deleted.imageset/icon-monochrome-show-deleted.pdf",
       "androidResourceName": "icon_monochrome_show_deleted",
       "androidPath": "android/res/drawable/icon_monochrome_show_deleted.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "show-deleted",
       "pageName": "􀥧     Icons"
@@ -2289,6 +2505,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-show.imageset/icon-monochrome-show.pdf",
       "androidResourceName": "icon_monochrome_show",
       "androidPath": "android/res/drawable/icon_monochrome_show.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "show",
       "pageName": "􀥧     Icons"
@@ -2301,6 +2518,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-sidebar.imageset/icon-monochrome-sidebar.pdf",
       "androidResourceName": "icon_monochrome_sidebar",
       "androidPath": "android/res/drawable/icon_monochrome_sidebar.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "sidebar",
       "pageName": "􀥧     Icons"
@@ -2313,6 +2531,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-sort-arrow.imageset/icon-monochrome-sort-arrow.pdf",
       "androidResourceName": "icon_monochrome_sort_arrow",
       "androidPath": "android/res/drawable/icon_monochrome_sort_arrow.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "sort-arrow",
       "pageName": "􀥧     Icons"
@@ -2325,6 +2544,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-sort-chevron.imageset/icon-monochrome-sort-chevron.pdf",
       "androidResourceName": "icon_monochrome_sort_chevron",
       "androidPath": "android/res/drawable/icon_monochrome_sort_chevron.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "sort-chevron",
       "pageName": "􀥧     Icons"
@@ -2337,6 +2557,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-speed.imageset/icon-monochrome-speed.pdf",
       "androidResourceName": "icon_monochrome_speed",
       "androidPath": "android/res/drawable/icon_monochrome_speed.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "speed",
       "pageName": "􀥧     Icons"
@@ -2349,6 +2570,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-stop-circle-fill.imageset/icon-monochrome-stop-circle-fill.pdf",
       "androidResourceName": "icon_monochrome_stop_circle_fill",
       "androidPath": "android/res/drawable/icon_monochrome_stop_circle_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "stop-circle-fill",
       "pageName": "􀥧     Icons"
@@ -2361,6 +2583,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-stop-fill.imageset/icon-monochrome-stop-fill.pdf",
       "androidResourceName": "icon_monochrome_stop_fill",
       "androidPath": "android/res/drawable/icon_monochrome_stop_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "stop-fill",
       "pageName": "􀥧     Icons"
@@ -2373,6 +2596,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-tag.imageset/icon-monochrome-tag.pdf",
       "androidResourceName": "icon_monochrome_tag",
       "androidPath": "android/res/drawable/icon_monochrome_tag.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "tag",
       "pageName": "􀥧     Icons"
@@ -2385,6 +2609,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-task-cancelled.imageset/icon-monochrome-task-cancelled.pdf",
       "androidResourceName": "icon_monochrome_task_cancelled",
       "androidPath": "android/res/drawable/icon_monochrome_task_cancelled.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "task-cancelled",
       "pageName": "􀥧     Icons"
@@ -2397,6 +2622,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-task-done.imageset/icon-monochrome-task-done.pdf",
       "androidResourceName": "icon_monochrome_task_done",
       "androidPath": "android/res/drawable/icon_monochrome_task_done.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "task-done",
       "pageName": "􀥧     Icons"
@@ -2409,6 +2635,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-task-in-progress.imageset/icon-monochrome-task-in-progress.pdf",
       "androidResourceName": "icon_monochrome_task_in_progress",
       "androidPath": "android/res/drawable/icon_monochrome_task_in_progress.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "task-in-progress",
       "pageName": "􀥧     Icons"
@@ -2421,6 +2648,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-task-in-review.imageset/icon-monochrome-task-in-review.pdf",
       "androidResourceName": "icon_monochrome_task_in_review",
       "androidPath": "android/res/drawable/icon_monochrome_task_in_review.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "task-In-review",
       "pageName": "􀥧     Icons"
@@ -2433,6 +2661,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-task-pause.imageset/icon-monochrome-task-pause.pdf",
       "androidResourceName": "icon_monochrome_task_pause",
       "androidPath": "android/res/drawable/icon_monochrome_task_pause.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "task-pause",
       "pageName": "􀥧     Icons"
@@ -2445,6 +2674,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-task-repeat.imageset/icon-monochrome-task-repeat.pdf",
       "androidResourceName": "icon_monochrome_task_repeat",
       "androidPath": "android/res/drawable/icon_monochrome_task_repeat.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "task-repeat",
       "pageName": "􀥧     Icons"
@@ -2457,6 +2687,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-task-status.imageset/icon-monochrome-task-status.pdf",
       "androidResourceName": "icon_monochrome_task_status",
       "androidPath": "android/res/drawable/icon_monochrome_task_status.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "task-status",
       "pageName": "􀥧     Icons"
@@ -2469,6 +2700,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-task-to-do.imageset/icon-monochrome-task-to-do.pdf",
       "androidResourceName": "icon_monochrome_task_to_do",
       "androidPath": "android/res/drawable/icon_monochrome_task_to_do.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "task-to-do",
       "pageName": "􀥧     Icons"
@@ -2481,6 +2713,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-telegram-fill.imageset/icon-monochrome-telegram-fill.pdf",
       "androidResourceName": "icon_monochrome_telegram_fill",
       "androidPath": "android/res/drawable/icon_monochrome_telegram_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "telegram-fill",
       "pageName": "􀥧     Icons"
@@ -2493,6 +2726,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-telegram.imageset/icon-monochrome-telegram.pdf",
       "androidResourceName": "icon_monochrome_telegram",
       "androidPath": "android/res/drawable/icon_monochrome_telegram.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "telegram",
       "pageName": "􀥧     Icons"
@@ -2505,6 +2739,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-template.imageset/icon-monochrome-template.pdf",
       "androidResourceName": "icon_monochrome_template",
       "androidPath": "android/res/drawable/icon_monochrome_template.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "template",
       "pageName": "􀥧     Icons"
@@ -2517,6 +2752,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-textformat.imageset/icon-monochrome-textformat.pdf",
       "androidResourceName": "icon_monochrome_textformat",
       "androidPath": "android/res/drawable/icon_monochrome_textformat.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "textformat",
       "pageName": "􀥧     Icons"
@@ -2529,6 +2765,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-theme.imageset/icon-monochrome-theme.pdf",
       "androidResourceName": "icon_monochrome_theme",
       "androidPath": "android/res/drawable/icon_monochrome_theme.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "theme",
       "pageName": "􀥧     Icons"
@@ -2541,6 +2778,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-transaction-card-estimate.imageset/icon-monochrome-transaction-card-estimate.pdf",
       "androidResourceName": "icon_monochrome_transaction_card_estimate",
       "androidPath": "android/res/drawable/icon_monochrome_transaction_card_estimate.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "transaction-card-estimate",
       "pageName": "􀥧     Icons"
@@ -2553,6 +2791,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-transaction-card-expense.imageset/icon-monochrome-transaction-card-expense.pdf",
       "androidResourceName": "icon_monochrome_transaction_card_expense",
       "androidPath": "android/res/drawable/icon_monochrome_transaction_card_expense.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "transaction-card-expense",
       "pageName": "􀥧     Icons"
@@ -2565,6 +2804,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-transaction-card-income.imageset/icon-monochrome-transaction-card-income.pdf",
       "androidResourceName": "icon_monochrome_transaction_card_income",
       "androidPath": "android/res/drawable/icon_monochrome_transaction_card_income.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "transaction-card-income",
       "pageName": "􀥧     Icons"
@@ -2577,6 +2817,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-transaction-card-transfer.imageset/icon-monochrome-transaction-card-transfer.pdf",
       "androidResourceName": "icon_monochrome_transaction_card_transfer",
       "androidPath": "android/res/drawable/icon_monochrome_transaction_card_transfer.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "transaction-card-transfer",
       "pageName": "􀥧     Icons"
@@ -2589,6 +2830,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-transaction-estimate.imageset/icon-monochrome-transaction-estimate.pdf",
       "androidResourceName": "icon_monochrome_transaction_estimate",
       "androidPath": "android/res/drawable/icon_monochrome_transaction_estimate.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "transaction-estimate",
       "pageName": "􀥧     Icons"
@@ -2601,6 +2843,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-transaction-income.imageset/icon-monochrome-transaction-income.pdf",
       "androidResourceName": "icon_monochrome_transaction_income",
       "androidPath": "android/res/drawable/icon_monochrome_transaction_income.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "transaction-income",
       "pageName": "􀥧     Icons"
@@ -2613,6 +2856,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-transaction-invoice.imageset/icon-monochrome-transaction-invoice.pdf",
       "androidResourceName": "icon_monochrome_transaction_invoice",
       "androidPath": "android/res/drawable/icon_monochrome_transaction_invoice.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "transaction-invoice",
       "pageName": "􀥧     Icons"
@@ -2625,6 +2869,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-transaction-list.imageset/icon-monochrome-transaction-list.pdf",
       "androidResourceName": "icon_monochrome_transaction_list",
       "androidPath": "android/res/drawable/icon_monochrome_transaction_list.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "transaction-list",
       "pageName": "􀥧     Icons"
@@ -2637,6 +2882,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-transaction-not-confirmed-trimmed.imageset/icon-monochrome-transaction-not-confirmed-trimmed.pdf",
       "androidResourceName": "icon_monochrome_transaction_not_confirmed_trimmed",
       "androidPath": "android/res/drawable/icon_monochrome_transaction_not_confirmed_trimmed.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "transaction-not-confirmed-trimmed",
       "pageName": "􀥧     Icons"
@@ -2649,6 +2895,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-transaction-not-confirmed.imageset/icon-monochrome-transaction-not-confirmed.pdf",
       "androidResourceName": "icon_monochrome_transaction_not_confirmed",
       "androidPath": "android/res/drawable/icon_monochrome_transaction_not_confirmed.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "transaction-not-confirmed",
       "pageName": "􀥧     Icons"
@@ -2661,6 +2908,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-transaction-transfer.imageset/icon-monochrome-transaction-transfer.pdf",
       "androidResourceName": "icon_monochrome_transaction_transfer",
       "androidPath": "android/res/drawable/icon_monochrome_transaction_transfer.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "transaction-transfer",
       "pageName": "􀥧     Icons"
@@ -2673,6 +2921,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-transcribe.imageset/icon-monochrome-transcribe.pdf",
       "androidResourceName": "icon_monochrome_transcribe",
       "androidPath": "android/res/drawable/icon_monochrome_transcribe.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "transcribe",
       "pageName": "􀥧     Icons"
@@ -2685,6 +2934,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-triangle-collapsed.imageset/icon-monochrome-triangle-collapsed.pdf",
       "androidResourceName": "icon_monochrome_triangle_collapsed",
       "androidPath": "android/res/drawable/icon_monochrome_triangle_collapsed.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "triangle-collapsed",
       "pageName": "􀥧     Icons"
@@ -2697,6 +2947,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-triangle-expanded.imageset/icon-monochrome-triangle-expanded.pdf",
       "androidResourceName": "icon_monochrome_triangle_expanded",
       "androidPath": "android/res/drawable/icon_monochrome_triangle_expanded.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "triangle-expanded",
       "pageName": "􀥧     Icons"
@@ -2709,6 +2960,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-undo.imageset/icon-monochrome-undo.pdf",
       "androidResourceName": "icon_monochrome_undo",
       "androidPath": "android/res/drawable/icon_monochrome_undo.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "undo",
       "pageName": "􀥧     Icons"
@@ -2721,6 +2973,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-unpin.imageset/icon-monochrome-unpin.pdf",
       "androidResourceName": "icon_monochrome_unpin",
       "androidPath": "android/res/drawable/icon_monochrome_unpin.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "unpin",
       "pageName": "􀥧     Icons"
@@ -2733,6 +2986,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-unpublish.imageset/icon-monochrome-unpublish.pdf",
       "androidResourceName": "icon_monochrome_unpublish",
       "androidPath": "android/res/drawable/icon_monochrome_unpublish.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "unpublish",
       "pageName": "􀥧     Icons"
@@ -2745,6 +2999,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-upload.imageset/icon-monochrome-upload.pdf",
       "androidResourceName": "icon_monochrome_upload",
       "androidPath": "android/res/drawable/icon_monochrome_upload.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "upload",
       "pageName": "􀥧     Icons"
@@ -2757,6 +3012,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-user-details.imageset/icon-monochrome-user-details.pdf",
       "androidResourceName": "icon_monochrome_user_details",
       "androidPath": "android/res/drawable/icon_monochrome_user_details.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "user-details",
       "pageName": "􀥧     Icons"
@@ -2769,6 +3025,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-user-fill.imageset/icon-monochrome-user-fill.pdf",
       "androidResourceName": "icon_monochrome_user_fill",
       "androidPath": "android/res/drawable/icon_monochrome_user_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "user-fill",
       "pageName": "􀥧     Icons"
@@ -2781,6 +3038,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-user-invite.imageset/icon-monochrome-user-invite.pdf",
       "androidResourceName": "icon_monochrome_user_invite",
       "androidPath": "android/res/drawable/icon_monochrome_user_invite.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "user-invite",
       "pageName": "􀥧     Icons"
@@ -2793,6 +3051,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-user.imageset/icon-monochrome-user.pdf",
       "androidResourceName": "icon_monochrome_user",
       "androidPath": "android/res/drawable/icon_monochrome_user.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "user",
       "pageName": "􀥧     Icons"
@@ -2805,6 +3064,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-user2-fill.imageset/icon-monochrome-user2-fill.pdf",
       "androidResourceName": "icon_monochrome_user2_fill",
       "androidPath": "android/res/drawable/icon_monochrome_user2_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "user2-fill",
       "pageName": "􀥧     Icons"
@@ -2817,6 +3077,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-user2.imageset/icon-monochrome-user2.pdf",
       "androidResourceName": "icon_monochrome_user2",
       "androidPath": "android/res/drawable/icon_monochrome_user2.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "user2",
       "pageName": "􀥧     Icons"
@@ -2829,6 +3090,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-video-background.imageset/icon-monochrome-video-background.pdf",
       "androidResourceName": "icon_monochrome_video_background",
       "androidPath": "android/res/drawable/icon_monochrome_video_background.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "video-background",
       "pageName": "􀥧     Icons"
@@ -2841,6 +3103,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-video-broadcast.imageset/icon-monochrome-video-broadcast.pdf",
       "androidResourceName": "icon_monochrome_video_broadcast",
       "androidPath": "android/res/drawable/icon_monochrome_video_broadcast.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "video-broadcast",
       "pageName": "􀥧     Icons"
@@ -2853,6 +3116,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-video-off-fill.imageset/icon-monochrome-video-off-fill.pdf",
       "androidResourceName": "icon_monochrome_video_off_fill",
       "androidPath": "android/res/drawable/icon_monochrome_video_off_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "video-off-fill",
       "pageName": "􀥧     Icons"
@@ -2865,6 +3129,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-video-off.imageset/icon-monochrome-video-off.pdf",
       "androidResourceName": "icon_monochrome_video_off",
       "androidPath": "android/res/drawable/icon_monochrome_video_off.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "video-off",
       "pageName": "􀥧     Icons"
@@ -2877,6 +3142,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-video-on-fill.imageset/icon-monochrome-video-on-fill.pdf",
       "androidResourceName": "icon_monochrome_video_on_fill",
       "androidPath": "android/res/drawable/icon_monochrome_video_on_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "video-on-fill",
       "pageName": "􀥧     Icons"
@@ -2889,6 +3155,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-video-on.imageset/icon-monochrome-video-on.pdf",
       "androidResourceName": "icon_monochrome_video_on",
       "androidPath": "android/res/drawable/icon_monochrome_video_on.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "video-on",
       "pageName": "􀥧     Icons"
@@ -2901,6 +3168,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-vk.imageset/icon-monochrome-vk.pdf",
       "androidResourceName": "icon_monochrome_vk",
       "androidPath": "android/res/drawable/icon_monochrome_vk.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "vk",
       "pageName": "􀥧     Icons"
@@ -2913,6 +3181,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-voice-chat.imageset/icon-monochrome-voice-chat.pdf",
       "androidResourceName": "icon_monochrome_voice_chat",
       "androidPath": "android/res/drawable/icon_monochrome_voice_chat.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "voice-chat",
       "pageName": "􀥧     Icons"
@@ -2925,6 +3194,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-voice-leveling.imageset/icon-monochrome-voice-leveling.pdf",
       "androidResourceName": "icon_monochrome_voice_leveling",
       "androidPath": "android/res/drawable/icon_monochrome_voice_leveling.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "voice-leveling",
       "pageName": "􀥧     Icons"
@@ -2937,6 +3207,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-voice.imageset/icon-monochrome-voice.pdf",
       "androidResourceName": "icon_monochrome_voice",
       "androidPath": "android/res/drawable/icon_monochrome_voice.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "voice",
       "pageName": "􀥧     Icons"
@@ -2949,6 +3220,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-volume0.imageset/icon-monochrome-volume0.pdf",
       "androidResourceName": "icon_monochrome_volume0",
       "androidPath": "android/res/drawable/icon_monochrome_volume0.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "volume0",
       "pageName": "􀥧     Icons"
@@ -2961,6 +3233,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-volume100.imageset/icon-monochrome-volume100.pdf",
       "androidResourceName": "icon_monochrome_volume100",
       "androidPath": "android/res/drawable/icon_monochrome_volume100.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "volume100",
       "pageName": "􀥧     Icons"
@@ -2973,6 +3246,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-volume50.imageset/icon-monochrome-volume50.pdf",
       "androidResourceName": "icon_monochrome_volume50",
       "androidPath": "android/res/drawable/icon_monochrome_volume50.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "volume50",
       "pageName": "􀥧     Icons"
@@ -2985,6 +3259,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-warning-fill.imageset/icon-monochrome-warning-fill.pdf",
       "androidResourceName": "icon_monochrome_warning_fill",
       "androidPath": "android/res/drawable/icon_monochrome_warning_fill.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "warning-fill",
       "pageName": "􀥧     Icons"
@@ -2997,6 +3272,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-warning.imageset/icon-monochrome-warning.pdf",
       "androidResourceName": "icon_monochrome_warning",
       "androidPath": "android/res/drawable/icon_monochrome_warning.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "warning",
       "pageName": "􀥧     Icons"
@@ -3009,6 +3285,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-wiki.imageset/icon-monochrome-wiki.pdf",
       "androidResourceName": "icon_monochrome_wiki",
       "androidPath": "android/res/drawable/icon_monochrome_wiki.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "wiki",
       "pageName": "􀥧     Icons"
@@ -3021,6 +3298,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-yandex-disk.imageset/icon-monochrome-yandex-disk.pdf",
       "androidResourceName": "icon_monochrome_yandex_disk",
       "androidPath": "android/res/drawable/icon_monochrome_yandex_disk.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "yandex-disk",
       "pageName": "􀥧     Icons"
@@ -3033,20 +3311,9 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-youtube.imageset/icon-monochrome-youtube.pdf",
       "androidResourceName": "icon_monochrome_youtube",
       "androidPath": "android/res/drawable/icon_monochrome_youtube.xml",
+      "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "youtube",
-      "pageName": "􀥧     Icons"
-    },
-    {
-      "figmaComponentId": "13645:11801",
-      "webPath": "web/icons/multicolor/101ai.svg",
-      "iosAssetName": "icon-multicolor-101ai",
-      "iosImagesetPath": "ios/Icons.xcassets/icon-multicolor-101ai.imageset/Contents.json",
-      "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-101ai.imageset/icon-multicolor-101ai.pdf",
-      "androidResourceName": "",
-      "androidPath": "",
-      "category": "multicolor",
-      "sourceName": "101ai",
       "pageName": "􀥧     Icons"
     },
     {
@@ -3057,6 +3324,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-101app.imageset/icon-multicolor-101app.pdf",
       "androidResourceName": "",
       "androidPath": "",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "101app",
       "pageName": "􀥧     Icons"
@@ -3069,6 +3337,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-balance-accountable-trimmed.imageset/icon-multicolor-balance-accountable-trimmed.pdf",
       "androidResourceName": "icon_multicolor_balance_accountable_trimmed",
       "androidPath": "android/res/drawable/icon_multicolor_balance_accountable_trimmed.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "balance-accountable-trimmed",
       "pageName": "􀥧     Icons"
@@ -3081,6 +3350,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-balance-accountable.imageset/icon-multicolor-balance-accountable.pdf",
       "androidResourceName": "icon_multicolor_balance_accountable",
       "androidPath": "android/res/drawable/icon_multicolor_balance_accountable.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "balance-accountable",
       "pageName": "􀥧     Icons"
@@ -3093,6 +3363,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-balance-foundation-accountable.imageset/icon-multicolor-balance-foundation-accountable.pdf",
       "androidResourceName": "icon_multicolor_balance_foundation_accountable",
       "androidPath": "android/res/drawable/icon_multicolor_balance_foundation_accountable.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "balance-foundation-accountable",
       "pageName": "􀥧     Icons"
@@ -3105,6 +3376,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-balance-foundation-own.imageset/icon-multicolor-balance-foundation-own.pdf",
       "androidResourceName": "icon_multicolor_balance_foundation_own",
       "androidPath": "android/res/drawable/icon_multicolor_balance_foundation_own.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "balance-foundation-own",
       "pageName": "􀥧     Icons"
@@ -3117,6 +3389,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-balance-own-trimmed.imageset/icon-multicolor-balance-own-trimmed.pdf",
       "androidResourceName": "icon_multicolor_balance_own_trimmed",
       "androidPath": "android/res/drawable/icon_multicolor_balance_own_trimmed.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "balance-own-trimmed",
       "pageName": "􀥧     Icons"
@@ -3129,6 +3402,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-balance-own.imageset/icon-multicolor-balance-own.pdf",
       "androidResourceName": "icon_multicolor_balance_own",
       "androidPath": "android/res/drawable/icon_multicolor_balance_own.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "balance-own",
       "pageName": "􀥧     Icons"
@@ -3141,6 +3415,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-balance-project-accountable.imageset/icon-multicolor-balance-project-accountable.pdf",
       "androidResourceName": "icon_multicolor_balance_project_accountable",
       "androidPath": "android/res/drawable/icon_multicolor_balance_project_accountable.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "balance-project-accountable",
       "pageName": "􀥧     Icons"
@@ -3153,6 +3428,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-balance-project-own.imageset/icon-multicolor-balance-project-own.pdf",
       "androidResourceName": "icon_multicolor_balance_project_own",
       "androidPath": "android/res/drawable/icon_multicolor_balance_project_own.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "balance-project-own",
       "pageName": "􀥧     Icons"
@@ -3165,6 +3441,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-delete.imageset/icon-multicolor-delete.pdf",
       "androidResourceName": "icon_multicolor_delete",
       "androidPath": "android/res/drawable/icon_multicolor_delete.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "Delete",
       "pageName": "􀥧     Icons"
@@ -3177,6 +3454,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-event-status-cancel-customer-trimmed.imageset/icon-multicolor-event-status-cancel-customer-trimmed.pdf",
       "androidResourceName": "icon_multicolor_event_status_cancel_customer_trimmed",
       "androidPath": "android/res/drawable/icon_multicolor_event_status_cancel_customer_trimmed.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "event-status-cancel-customer-trimmed",
       "pageName": "􀥧     Icons"
@@ -3189,6 +3467,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-event-status-cancel-customer.imageset/icon-multicolor-event-status-cancel-customer.pdf",
       "androidResourceName": "icon_multicolor_event_status_cancel_customer",
       "androidPath": "android/res/drawable/icon_multicolor_event_status_cancel_customer.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "event-status-cancel-customer",
       "pageName": "􀥧     Icons"
@@ -3201,6 +3480,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-event-status-cancel-manager-trimmed.imageset/icon-multicolor-event-status-cancel-manager-trimmed.pdf",
       "androidResourceName": "icon_multicolor_event_status_cancel_manager_trimmed",
       "androidPath": "android/res/drawable/icon_multicolor_event_status_cancel_manager_trimmed.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "event-status-cancel-manager-trimmed",
       "pageName": "􀥧     Icons"
@@ -3213,6 +3493,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-event-status-cancel-manager.imageset/icon-multicolor-event-status-cancel-manager.pdf",
       "androidResourceName": "icon_multicolor_event_status_cancel_manager",
       "androidPath": "android/res/drawable/icon_multicolor_event_status_cancel_manager.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "event-status-cancel-manager",
       "pageName": "􀥧     Icons"
@@ -3225,6 +3506,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-event-status-confirmed-customer-trimmed.imageset/icon-multicolor-event-status-confirmed-customer-trimmed.pdf",
       "androidResourceName": "icon_multicolor_event_status_confirmed_customer_trimmed",
       "androidPath": "android/res/drawable/icon_multicolor_event_status_confirmed_customer_trimmed.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "event-status-confirmed-customer-trimmed",
       "pageName": "􀥧     Icons"
@@ -3237,6 +3519,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-event-status-confirmed-customer.imageset/icon-multicolor-event-status-confirmed-customer.pdf",
       "androidResourceName": "icon_multicolor_event_status_confirmed_customer",
       "androidPath": "android/res/drawable/icon_multicolor_event_status_confirmed_customer.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "event-status-confirmed-customer",
       "pageName": "􀥧     Icons"
@@ -3247,8 +3530,9 @@
       "iosAssetName": "icon-multicolor-event-status-confirmed-manager-trimmed",
       "iosImagesetPath": "ios/Icons.xcassets/icon-multicolor-event-status-confirmed-manager-trimmed.imageset/Contents.json",
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-event-status-confirmed-manager-trimmed.imageset/icon-multicolor-event-status-confirmed-manager-trimmed.pdf",
-      "androidResourceName": "",
-      "androidPath": "",
+      "androidResourceName": "icon_multicolor_event_status_confirmed_manager_trimmed",
+      "androidPath": "android/res/drawable-v24/icon_multicolor_event_status_confirmed_manager_trimmed.xml",
+      "androidFallbackPath": "android/res/drawable/icon_multicolor_event_status_confirmed_manager_trimmed.png",
       "category": "multicolor",
       "sourceName": "event-status-confirmed-manager-trimmed",
       "pageName": "􀥧     Icons"
@@ -3259,8 +3543,9 @@
       "iosAssetName": "icon-multicolor-event-status-confirmed-manager",
       "iosImagesetPath": "ios/Icons.xcassets/icon-multicolor-event-status-confirmed-manager.imageset/Contents.json",
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-event-status-confirmed-manager.imageset/icon-multicolor-event-status-confirmed-manager.pdf",
-      "androidResourceName": "",
-      "androidPath": "",
+      "androidResourceName": "icon_multicolor_event_status_confirmed_manager",
+      "androidPath": "android/res/drawable-v24/icon_multicolor_event_status_confirmed_manager.xml",
+      "androidFallbackPath": "android/res/drawable/icon_multicolor_event_status_confirmed_manager.png",
       "category": "multicolor",
       "sourceName": "event-status-confirmed-manager",
       "pageName": "􀥧     Icons"
@@ -3273,6 +3558,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-event-status-waiting-trimmed.imageset/icon-multicolor-event-status-waiting-trimmed.pdf",
       "androidResourceName": "icon_multicolor_event_status_waiting_trimmed",
       "androidPath": "android/res/drawable/icon_multicolor_event_status_waiting_trimmed.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "event-status-waiting-trimmed",
       "pageName": "􀥧     Icons"
@@ -3285,6 +3571,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-event-status-waiting.imageset/icon-multicolor-event-status-waiting.pdf",
       "androidResourceName": "icon_multicolor_event_status_waiting",
       "androidPath": "android/res/drawable/icon_multicolor_event_status_waiting.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "event-status-waiting",
       "pageName": "􀥧     Icons"
@@ -3297,6 +3584,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-get.imageset/icon-multicolor-get.pdf",
       "androidResourceName": "icon_multicolor_get",
       "androidPath": "android/res/drawable/icon_multicolor_get.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "Get",
       "pageName": "􀥧     Icons"
@@ -3307,8 +3595,9 @@
       "iosAssetName": "icon-multicolor-loader",
       "iosImagesetPath": "ios/Icons.xcassets/icon-multicolor-loader.imageset/Contents.json",
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-loader.imageset/icon-multicolor-loader.pdf",
-      "androidResourceName": "",
-      "androidPath": "",
+      "androidResourceName": "icon_multicolor_loader",
+      "androidPath": "android/res/drawable-v24/icon_multicolor_loader.xml",
+      "androidFallbackPath": "android/res/drawable/icon_multicolor_loader.png",
       "category": "multicolor",
       "sourceName": "loader",
       "pageName": "􀥧     Icons"
@@ -3321,6 +3610,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-patch.imageset/icon-multicolor-patch.pdf",
       "androidResourceName": "icon_multicolor_patch",
       "androidPath": "android/res/drawable/icon_multicolor_patch.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "Patch",
       "pageName": "􀥧     Icons"
@@ -3333,6 +3623,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-post.imageset/icon-multicolor-post.pdf",
       "androidResourceName": "icon_multicolor_post",
       "androidPath": "android/res/drawable/icon_multicolor_post.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "Post",
       "pageName": "􀥧     Icons"
@@ -3345,6 +3636,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-put.imageset/icon-multicolor-put.pdf",
       "androidResourceName": "icon_multicolor_put",
       "androidPath": "android/res/drawable/icon_multicolor_put.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "Put",
       "pageName": "􀥧     Icons"
@@ -3357,6 +3649,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-receipt-done.imageset/icon-multicolor-receipt-done.pdf",
       "androidResourceName": "icon_multicolor_receipt_done",
       "androidPath": "android/res/drawable/icon_multicolor_receipt_done.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "receipt-done",
       "pageName": "􀥧     Icons"
@@ -3369,6 +3662,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-sub-club.imageset/icon-multicolor-sub-club.pdf",
       "androidResourceName": "icon_multicolor_sub_club",
       "androidPath": "android/res/drawable/icon_multicolor_sub_club.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "sub-club",
       "pageName": "􀥧     Icons"
@@ -3381,6 +3675,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-sub-free.imageset/icon-multicolor-sub-free.pdf",
       "androidResourceName": "icon_multicolor_sub_free",
       "androidPath": "android/res/drawable/icon_multicolor_sub_free.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "sub-free",
       "pageName": "􀥧     Icons"
@@ -3393,6 +3688,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-sub-pro-plus.imageset/icon-multicolor-sub-pro-plus.pdf",
       "androidResourceName": "icon_multicolor_sub_pro_plus",
       "androidPath": "android/res/drawable/icon_multicolor_sub_pro_plus.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "sub-pro-plus",
       "pageName": "􀥧     Icons"
@@ -3405,6 +3701,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-sub-pro.imageset/icon-multicolor-sub-pro.pdf",
       "androidResourceName": "icon_multicolor_sub_pro",
       "androidPath": "android/res/drawable/icon_multicolor_sub_pro.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "sub-pro",
       "pageName": "􀥧     Icons"
@@ -3417,6 +3714,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-transfer-fund-to-project.imageset/icon-multicolor-transfer-fund-to-project.pdf",
       "androidResourceName": "icon_multicolor_transfer_fund_to_project",
       "androidPath": "android/res/drawable/icon_multicolor_transfer_fund_to_project.xml",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "transfer-fund-to-project",
       "pageName": "􀥧     Icons"
@@ -3429,6 +3727,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-multicolor-transfer-project-to-fund.imageset/icon-multicolor-transfer-project-to-fund.pdf",
       "androidResourceName": "",
       "androidPath": "",
+      "androidFallbackPath": "",
       "category": "multicolor",
       "sourceName": "transfer-project-to-fund",
       "pageName": "􀥧     Icons"
@@ -3441,6 +3740,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-bolt-fill.imageset/icon-weather-cloud-bolt-fill.pdf",
       "androidResourceName": "icon_weather_cloud_bolt_fill",
       "androidPath": "android/res/drawable/icon_weather_cloud_bolt_fill.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.bolt.fill",
       "pageName": "􀥧     Icons"
@@ -3453,6 +3753,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-bolt-rain-fill.imageset/icon-weather-cloud-bolt-rain-fill.pdf",
       "androidResourceName": "icon_weather_cloud_bolt_rain_fill",
       "androidPath": "android/res/drawable/icon_weather_cloud_bolt_rain_fill.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.bolt.rain.fill",
       "pageName": "􀥧     Icons"
@@ -3465,6 +3766,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-bolt-rain.imageset/icon-weather-cloud-bolt-rain.pdf",
       "androidResourceName": "icon_weather_cloud_bolt_rain",
       "androidPath": "android/res/drawable/icon_weather_cloud_bolt_rain.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.bolt.rain",
       "pageName": "􀥧     Icons"
@@ -3477,6 +3779,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-bolt.imageset/icon-weather-cloud-bolt.pdf",
       "androidResourceName": "icon_weather_cloud_bolt",
       "androidPath": "android/res/drawable/icon_weather_cloud_bolt.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.bolt",
       "pageName": "􀥧     Icons"
@@ -3489,6 +3792,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-drizzle-fill.imageset/icon-weather-cloud-drizzle-fill.pdf",
       "androidResourceName": "icon_weather_cloud_drizzle_fill",
       "androidPath": "android/res/drawable/icon_weather_cloud_drizzle_fill.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.drizzle.fill",
       "pageName": "􀥧     Icons"
@@ -3501,6 +3805,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-drizzle.imageset/icon-weather-cloud-drizzle.pdf",
       "androidResourceName": "icon_weather_cloud_drizzle",
       "androidPath": "android/res/drawable/icon_weather_cloud_drizzle.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.drizzle",
       "pageName": "􀥧     Icons"
@@ -3513,6 +3818,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-fill.imageset/icon-weather-cloud-fill.pdf",
       "androidResourceName": "icon_weather_cloud_fill",
       "androidPath": "android/res/drawable/icon_weather_cloud_fill.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.fill",
       "pageName": "􀥧     Icons"
@@ -3525,6 +3831,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-fog-fill.imageset/icon-weather-cloud-fog-fill.pdf",
       "androidResourceName": "icon_weather_cloud_fog_fill",
       "androidPath": "android/res/drawable/icon_weather_cloud_fog_fill.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.fog.fill",
       "pageName": "􀥧     Icons"
@@ -3537,6 +3844,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-fog.imageset/icon-weather-cloud-fog.pdf",
       "androidResourceName": "icon_weather_cloud_fog",
       "androidPath": "android/res/drawable/icon_weather_cloud_fog.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.fog",
       "pageName": "􀥧     Icons"
@@ -3549,6 +3857,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-hail-fill.imageset/icon-weather-cloud-hail-fill.pdf",
       "androidResourceName": "icon_weather_cloud_hail_fill",
       "androidPath": "android/res/drawable/icon_weather_cloud_hail_fill.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.hail.fill",
       "pageName": "􀥧     Icons"
@@ -3561,6 +3870,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-hail.imageset/icon-weather-cloud-hail.pdf",
       "androidResourceName": "icon_weather_cloud_hail",
       "androidPath": "android/res/drawable/icon_weather_cloud_hail.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.hail",
       "pageName": "􀥧     Icons"
@@ -3573,6 +3883,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-heavyrain-fill.imageset/icon-weather-cloud-heavyrain-fill.pdf",
       "androidResourceName": "icon_weather_cloud_heavyrain_fill",
       "androidPath": "android/res/drawable/icon_weather_cloud_heavyrain_fill.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.heavyrain.fill",
       "pageName": "􀥧     Icons"
@@ -3585,6 +3896,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-heavyrain.imageset/icon-weather-cloud-heavyrain.pdf",
       "androidResourceName": "icon_weather_cloud_heavyrain",
       "androidPath": "android/res/drawable/icon_weather_cloud_heavyrain.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.heavyrain",
       "pageName": "􀥧     Icons"
@@ -3597,6 +3909,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-moon-bolt-fill.imageset/icon-weather-cloud-moon-bolt-fill.pdf",
       "androidResourceName": "icon_weather_cloud_moon_bolt_fill",
       "androidPath": "android/res/drawable/icon_weather_cloud_moon_bolt_fill.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.moon.bolt.fill",
       "pageName": "􀥧     Icons"
@@ -3609,6 +3922,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-moon-bolt.imageset/icon-weather-cloud-moon-bolt.pdf",
       "androidResourceName": "icon_weather_cloud_moon_bolt",
       "androidPath": "android/res/drawable/icon_weather_cloud_moon_bolt.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.moon.bolt",
       "pageName": "􀥧     Icons"
@@ -3621,6 +3935,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-moon-fill.imageset/icon-weather-cloud-moon-fill.pdf",
       "androidResourceName": "icon_weather_cloud_moon_fill",
       "androidPath": "android/res/drawable/icon_weather_cloud_moon_fill.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.moon.fill",
       "pageName": "􀥧     Icons"
@@ -3633,6 +3948,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-moon-rain-fill.imageset/icon-weather-cloud-moon-rain-fill.pdf",
       "androidResourceName": "icon_weather_cloud_moon_rain_fill",
       "androidPath": "android/res/drawable/icon_weather_cloud_moon_rain_fill.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.moon.rain.fill",
       "pageName": "􀥧     Icons"
@@ -3645,6 +3961,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-moon-rain.imageset/icon-weather-cloud-moon-rain.pdf",
       "androidResourceName": "icon_weather_cloud_moon_rain",
       "androidPath": "android/res/drawable/icon_weather_cloud_moon_rain.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.moon.rain",
       "pageName": "􀥧     Icons"
@@ -3657,6 +3974,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-moon.imageset/icon-weather-cloud-moon.pdf",
       "androidResourceName": "icon_weather_cloud_moon",
       "androidPath": "android/res/drawable/icon_weather_cloud_moon.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.moon",
       "pageName": "􀥧     Icons"
@@ -3669,6 +3987,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-rain-fill.imageset/icon-weather-cloud-rain-fill.pdf",
       "androidResourceName": "icon_weather_cloud_rain_fill",
       "androidPath": "android/res/drawable/icon_weather_cloud_rain_fill.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.rain.fill",
       "pageName": "􀥧     Icons"
@@ -3681,6 +4000,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-rain.imageset/icon-weather-cloud-rain.pdf",
       "androidResourceName": "icon_weather_cloud_rain",
       "androidPath": "android/res/drawable/icon_weather_cloud_rain.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.rain",
       "pageName": "􀥧     Icons"
@@ -3693,6 +4013,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-sleet-fill.imageset/icon-weather-cloud-sleet-fill.pdf",
       "androidResourceName": "icon_weather_cloud_sleet_fill",
       "androidPath": "android/res/drawable/icon_weather_cloud_sleet_fill.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.sleet.fill",
       "pageName": "􀥧     Icons"
@@ -3705,6 +4026,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-sleet.imageset/icon-weather-cloud-sleet.pdf",
       "androidResourceName": "icon_weather_cloud_sleet",
       "androidPath": "android/res/drawable/icon_weather_cloud_sleet.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.sleet",
       "pageName": "􀥧     Icons"
@@ -3717,6 +4039,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-snow-fill.imageset/icon-weather-cloud-snow-fill.pdf",
       "androidResourceName": "icon_weather_cloud_snow_fill",
       "androidPath": "android/res/drawable/icon_weather_cloud_snow_fill.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.snow.fill",
       "pageName": "􀥧     Icons"
@@ -3729,6 +4052,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-snow.imageset/icon-weather-cloud-snow.pdf",
       "androidResourceName": "icon_weather_cloud_snow",
       "androidPath": "android/res/drawable/icon_weather_cloud_snow.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.snow",
       "pageName": "􀥧     Icons"
@@ -3741,6 +4065,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-sun-bolt-fill.imageset/icon-weather-cloud-sun-bolt-fill.pdf",
       "androidResourceName": "icon_weather_cloud_sun_bolt_fill",
       "androidPath": "android/res/drawable/icon_weather_cloud_sun_bolt_fill.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.sun.bolt.fill",
       "pageName": "􀥧     Icons"
@@ -3753,6 +4078,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-sun-bolt.imageset/icon-weather-cloud-sun-bolt.pdf",
       "androidResourceName": "icon_weather_cloud_sun_bolt",
       "androidPath": "android/res/drawable/icon_weather_cloud_sun_bolt.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.sun.bolt",
       "pageName": "􀥧     Icons"
@@ -3765,6 +4091,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-sun-fill.imageset/icon-weather-cloud-sun-fill.pdf",
       "androidResourceName": "icon_weather_cloud_sun_fill",
       "androidPath": "android/res/drawable/icon_weather_cloud_sun_fill.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.sun.fill",
       "pageName": "􀥧     Icons"
@@ -3777,6 +4104,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-sun-rain-fill.imageset/icon-weather-cloud-sun-rain-fill.pdf",
       "androidResourceName": "icon_weather_cloud_sun_rain_fill",
       "androidPath": "android/res/drawable/icon_weather_cloud_sun_rain_fill.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.sun.rain.fill",
       "pageName": "􀥧     Icons"
@@ -3789,6 +4117,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-sun-rain.imageset/icon-weather-cloud-sun-rain.pdf",
       "androidResourceName": "icon_weather_cloud_sun_rain",
       "androidPath": "android/res/drawable/icon_weather_cloud_sun_rain.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.sun.rain",
       "pageName": "􀥧     Icons"
@@ -3801,6 +4130,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud-sun.imageset/icon-weather-cloud-sun.pdf",
       "androidResourceName": "icon_weather_cloud_sun",
       "androidPath": "android/res/drawable/icon_weather_cloud_sun.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud.sun",
       "pageName": "􀥧     Icons"
@@ -3813,6 +4143,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-cloud.imageset/icon-weather-cloud.pdf",
       "androidResourceName": "icon_weather_cloud",
       "androidPath": "android/res/drawable/icon_weather_cloud.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "cloud",
       "pageName": "􀥧     Icons"
@@ -3825,6 +4156,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-smoke-fill.imageset/icon-weather-smoke-fill.pdf",
       "androidResourceName": "icon_weather_smoke_fill",
       "androidPath": "android/res/drawable/icon_weather_smoke_fill.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "smoke.fill",
       "pageName": "􀥧     Icons"
@@ -3837,6 +4169,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-smoke.imageset/icon-weather-smoke.pdf",
       "androidResourceName": "icon_weather_smoke",
       "androidPath": "android/res/drawable/icon_weather_smoke.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "smoke",
       "pageName": "􀥧     Icons"
@@ -3849,6 +4182,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-snowflake.imageset/icon-weather-snowflake.pdf",
       "androidResourceName": "icon_weather_snowflake",
       "androidPath": "android/res/drawable/icon_weather_snowflake.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "snowflake",
       "pageName": "􀥧     Icons"
@@ -3861,6 +4195,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-sun-max-fill.imageset/icon-weather-sun-max-fill.pdf",
       "androidResourceName": "icon_weather_sun_max_fill",
       "androidPath": "android/res/drawable/icon_weather_sun_max_fill.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "sun.max.fill",
       "pageName": "􀥧     Icons"
@@ -3873,6 +4208,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-sun-max.imageset/icon-weather-sun-max.pdf",
       "androidResourceName": "icon_weather_sun_max",
       "androidPath": "android/res/drawable/icon_weather_sun_max.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "sun.max",
       "pageName": "􀥧     Icons"
@@ -3885,6 +4221,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-sun-min-fill.imageset/icon-weather-sun-min-fill.pdf",
       "androidResourceName": "icon_weather_sun_min_fill",
       "androidPath": "android/res/drawable/icon_weather_sun_min_fill.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "sun.min.fill",
       "pageName": "􀥧     Icons"
@@ -3897,6 +4234,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-sun-min.imageset/icon-weather-sun-min.pdf",
       "androidResourceName": "icon_weather_sun_min",
       "androidPath": "android/res/drawable/icon_weather_sun_min.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "sun.min",
       "pageName": "􀥧     Icons"
@@ -3909,6 +4247,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-wind-snow.imageset/icon-weather-wind-snow.pdf",
       "androidResourceName": "icon_weather_wind_snow",
       "androidPath": "android/res/drawable/icon_weather_wind_snow.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "wind.snow",
       "pageName": "􀥧     Icons"
@@ -3921,6 +4260,7 @@
       "iosPdfPath": "ios/Icons.xcassets/icon-weather-wind.imageset/icon-weather-wind.pdf",
       "androidResourceName": "icon_weather_wind",
       "androidPath": "android/res/drawable/icon_weather_wind.xml",
+      "androidFallbackPath": "",
       "category": "weather",
       "sourceName": "wind",
       "pageName": "􀥧     Icons"
