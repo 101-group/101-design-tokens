@@ -1237,6 +1237,32 @@
       "pageName": "􀥧     Icons"
     },
     {
+      "figmaComponentId": "13713:110",
+      "webPath": "web/icons/monochrome/flashlight-off.svg",
+      "iosAssetName": "icon-monochrome-flashlight-off",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-flashlight-off.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-flashlight-off.imageset/icon-monochrome-flashlight-off.pdf",
+      "androidResourceName": "icon_monochrome_flashlight_off",
+      "androidPath": "android/res/drawable/icon_monochrome_flashlight_off.xml",
+      "androidFallbackPath": "",
+      "category": "monochrome",
+      "sourceName": "flashlight-off",
+      "pageName": "􀥧     Icons"
+    },
+    {
+      "figmaComponentId": "13713:111",
+      "webPath": "web/icons/monochrome/flashlight-on.svg",
+      "iosAssetName": "icon-monochrome-flashlight-on",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-flashlight-on.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-flashlight-on.imageset/icon-monochrome-flashlight-on.pdf",
+      "androidResourceName": "icon_monochrome_flashlight_on",
+      "androidPath": "android/res/drawable/icon_monochrome_flashlight_on.xml",
+      "androidFallbackPath": "",
+      "category": "monochrome",
+      "sourceName": "flashlight-on",
+      "pageName": "􀥧     Icons"
+    },
+    {
       "figmaComponentId": "8323:11766",
       "webPath": "web/icons/monochrome/folder.svg",
       "iosAssetName": "icon-monochrome-folder",
